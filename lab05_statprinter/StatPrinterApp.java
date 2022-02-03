@@ -61,8 +61,8 @@ public class StatPrinterApp
     for( Integer i : al2 ) {
     System.out.println( i + " is local mode?\t" + sp2.isLocalMode(i) );
     }
-    System.out.println( "histogram:" );
-    sp2.printHistogram( 50 );
+   System.out.println( "histogram:" );
+//    sp2.printHistogram( 50 );
   }
 
 }//end StatPrinterApps
