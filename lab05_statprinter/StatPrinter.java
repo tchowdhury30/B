@@ -1,8 +1,8 @@
 // Clyde "Thluffy" Sinclair
-// APCS pd0
+// APCS pd 8
 // L05 -- pulling it together
 // 2022-02-03r
-// time spent:  hrs
+// time spent: .5 hrs
 
 
 /**
@@ -59,7 +59,15 @@ public class StatPrinter
   //  _frequency would be [0,0,3,2,0,1]
   public StatPrinter( ArrayList <Integer> data )
   {
-    /* YOUR IMPLEMENTATION HERE */
+    for index : data {
+      i_counter = 0;
+      for num : data {
+        if (index == num) {
+          i_counter++;
+        }
+      }
+      _frequency.add(i_counter);
+    }
   }
 
 
@@ -68,7 +76,7 @@ public class StatPrinter
   //postcond: returns largest integer in data
   public Integer max( ArrayList <Integer> data )
   {
-    int max = data[0];
+    int max = data.get(0);
     for (num : data) {
       if (num > max) {
         max = num;
@@ -90,7 +98,7 @@ public class StatPrinter
   //    isLocalMode(5) -> true
   public boolean isLocalMode( int i )
   {
-    /* YOUR IMPLEMENTATION HERE */
+    return (_frequency.get(i) > _frequency.get(i+1)) && (_frequency.get(i-1));
   }
 
 
@@ -98,8 +106,13 @@ public class StatPrinter
   //postcond: returns list of modes in _frequency
   public ArrayList<Integer> getLocalModes()
   {
-    /* YOUR IMPLEMENTATION HERE */
-
+    ArrayList <Integer> localModes;
+    for(i=0; i<=_frequency.size(); i++) {
+      if (isLocalMode(i)) {
+        localModes.add(i);
+      }
+    }
+    return localModes;
   }
 
 
