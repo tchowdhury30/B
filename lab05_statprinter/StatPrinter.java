@@ -59,6 +59,7 @@ public class StatPrinter
   //  _frequency would be [0,0,3,2,0,1]
   public StatPrinter( ArrayList <Integer> data )
   {
+    _frequency = new ArrayList <Integer>(max(data)+1);
     for (int index : data) {
       int i_counter = 0;
       for (int num : data) {
@@ -98,7 +99,7 @@ public class StatPrinter
   //    isLocalMode(5) -> true
   public boolean isLocalMode( int i )
   {
-    return (_frequency.get(i) > _frequency.get(i+1)) && (_frequency.get(i) > _frequency.get(i-1));
+    return ( i > 0 && i < _frequency.size()-1 && _frequency.get(i) > _frequency.get(i+1)) && (_frequency.get(i) > _frequency.get(i-1));
   }
 
 
@@ -123,7 +124,17 @@ public class StatPrinter
   //precond:  longestBar > 0
   public void printHistogram( int longestBar )
   {
-    /* YOUR IMPLEMENTATION HERE */
+    String histogram = "";
+    for ( int i = 0; i <= _frequency.size()-1; i++) {
+      double data = _frequency.get(i);
+      int length = (int)(longestBar * (data / max(_frequency)));
+        String as = "";
+      for (int j=length; j > 0; j-- ) {
+        as += "*";
+      }
+      histogram += "\n " + i + ":" + as;
+    }
+    System.out.println(histogram);
   }
 
 }//end class StatPrinter

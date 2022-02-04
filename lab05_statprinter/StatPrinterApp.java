@@ -62,7 +62,7 @@ public class StatPrinterApp
     System.out.println( i + " is local mode?\t" + sp2.isLocalMode(i) );
     }
    System.out.println( "histogram:" );
-//    sp2.printHistogram( 50 );
+   sp2.printHistogram( 50 );
   }
 
 }//end StatPrinterApps
