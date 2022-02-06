@@ -1,8 +1,8 @@
-// Clyde "Thluffy" Sinclair
-// APCS pd 8
+// Team FrogHats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
 // L05 -- pulling it together
-// 2022-02-03r
-// time spent: .5 hrs
+// 2022-02-03
+// time spent: 2.0 hrs
 
 
 /**
@@ -48,7 +48,7 @@ import java.util.ArrayList;
 public class StatPrinter
 {
   // instance variable for frequencies of each integer in input ArrayList
-  private ArrayList <Integer> _frequency;
+  private ArrayList <Integer> _frequency = new ArrayList();
 
 
   //*************** QUESTION 02 **************************
@@ -57,24 +57,29 @@ public class StatPrinter
   //          _frequency.get(i) returns frequency of i in data
   //eg, for data [2,3,2,5,2,3]
   //  _frequency would be [0,0,3,2,0,1]
+
+  // StatPrinter(): O(n^2)
   public StatPrinter( ArrayList <Integer> data )
   {
-    _frequency = new ArrayList <Integer>(max(data)+1);
-    for (int index : data) {
-      int i_counter = 0;
-      for (int num : data) {
-        if (index == num) {
-          i_counter++;
+    int freqSize = max(data) + 1;
+    for (int i = 0; i < freqSize; i++){
+      int counter = 0;
+      for (int n = 0; n < data.size(); n++ ){
+        if (data.get(n) == i){ // searches data, counting every occurence of the current index of frequency it is on
+          counter++;
         }
       }
-      _frequency.add(i_counter);
+      _frequency.add(counter); // adds the final tally of occurences for that specific index
     }
   }
+
 
 
   //*************** QUESTION 01 **************************
   //precond:  data.size() > 0
   //postcond: returns largest integer in data
+
+  // max(): O(n)
   public Integer max( ArrayList <Integer> data )
   {
     int max = data.get(0);
@@ -97,9 +102,13 @@ public class StatPrinter
   //    isLocalMode(0) -> false
   //    isLocalMode(1) -> true
   //    isLocalMode(5) -> true
+
+  // isLocalMode(): O(1)
   public boolean isLocalMode( int i )
   {
-    return ( i > 0 && i < _frequency.size()-1 && _frequency.get(i) > _frequency.get(i+1)) && (_frequency.get(i) > _frequency.get(i-1));
+    return (i > 0 && i < _frequency.size() - 1
+    && _frequency.get(i) > _frequency.get(i+1)
+    && _frequency.get(i) > _frequency.get(i-1));
   }
 
 
@@ -107,11 +116,12 @@ public class StatPrinter
 
   //*************** QUESTION 04 **************************
   //postcond: returns list of modes in _frequency
-  ArrayList <Integer> localModes; //??
+
+  // getLocalModes(): O(n)
   public ArrayList<Integer> getLocalModes()
   {
-
-    for(int i=0; i<=_frequency.size(); i++) {
+    ArrayList <Integer> localModes = new ArrayList();
+    for (int i = 1; i < _frequency.size() - 1; i++) { //starts at 1 and ends before the last index as those cannot be modes
       if (isLocalMode(i)) {
         localModes.add(i);
       }
@@ -122,19 +132,21 @@ public class StatPrinter
 
   //*************** QUESTION 05 **************************
   //precond:  longestBar > 0
+
+  // printHistogram(): O(n^2)
   public void printHistogram( int longestBar )
   {
-    String histogram = "";
-    for ( int i = 0; i <= _frequency.size()-1; i++) {
-      double data = _frequency.get(i);
-      int length = (int)(longestBar * (data / max(_frequency)));
-        String as = "";
-      for (int j=length; j > 0; j-- ) {
-        as += "*";
+    double scale = (double)longestBar / max(_frequency); // typecasted double because it is originally int division
+    for (int i = 0; i < _frequency.size(); i++){
+      String tally = "";
+      // int counter = 0; // diag to easily count num of tallys per row
+      int adjusted = (int)Math.round(_frequency.get(i) * scale); // rounded from a double to long, then typecasted to int
+      for (int n = adjusted; n > 0; n--){ // num of tallys equals the adjusted number
+        tally += "*";
+        // counter++;
       }
-      histogram += "\n " + i + ":" + as;
+      System.out.println(i + ": " + tally);
     }
-    System.out.println(histogram);
   }
 
 }//end class StatPrinter

@@ -1,23 +1,30 @@
-Team Phantom Tollbooth (Clyde Sinclair, Fierce Dragon)
-APCS pd0
-L05 -- pulling it together
-2022-02-03r
-time spent:  hrs
+// Team FrogHats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
+// L05 -- pulling it together
+// 2022-02-03
+// time spent: 2.0 hrs
 
 
 DISCO
 ------------------------------------------------
-*
+* To get past the compiler, we have to add "= new ArrayList()" when initializing the _frequency ArrayList. Else, we were met with a NullPointerException.
+* When trying to round a double to an int, it must first be rounded to a long using Math.round(). Then, you can typecast the rounded value into an int.
 ================================================
 
 
 QCC
 ------------------------------------------------
-*
+* Another way we found we can round a double to an int is using Math.round() twice. Why does this work? Can Math.round() change a long to an int?
+* Why are local modes important in a data set?
 ================================================
 
 
 MISC
 ------------------------------------------------
-*
+* Histogram plan:
+  - First, build a basic version that does not use longestBar. Then implement the following
+  - For final version, set up a chart scale according to longestBar and the max value in _frequency.
+  - Use a for loop to traverse _frequency, adjust each value in the indices according to the scale.
+  - Use a second for loop to add tallies to a string for each new adjusted value.
+  - Print out the index and then the tallies for each index.
 ================================================

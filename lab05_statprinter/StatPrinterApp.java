@@ -1,8 +1,8 @@
-// Clyde "Thluffy" Sinclair
-// APCS pd0
+// Team FrogHats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
 // L05 -- pulling it together
-// 2022-02-03r
-// time spent:  hrs
+// 2022-02-03
+// time spent: 2.0 hrs
 
 /***
  * class StatPrinterApp
@@ -36,11 +36,9 @@ public class StatPrinterApp
 
     StatPrinter sp1 = new StatPrinter( al1 );
 
-    /*
-      System.out.println( "sp1 testing... " );
-      sp1.max( al1 );
-      sp1.printHistogram( 50 );
-    */
+    System.out.println( "sp1 testing... " );
+    sp1.max( al1 );
+    sp1.printHistogram( 50 );
 
 
     //construct data [2,3,2,5,2,3]
@@ -61,8 +59,8 @@ public class StatPrinterApp
     for( Integer i : al2 ) {
     System.out.println( i + " is local mode?\t" + sp2.isLocalMode(i) );
     }
-   System.out.println( "histogram:" );
-   sp2.printHistogram( 50 );
+    System.out.println( "histogram:" );
+    sp2.printHistogram( 50 );
   }
 
-}//end StatPrinterApps
+}//end StatPrinterApp
