@@ -1,0 +1,21 @@
+// Team FrogHats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
+// HW60: A Termite is-a Turtle, a Thinker is-a Turtle
+// 2022-02-07
+// time spent: .5 hrs
+
+DISCO
+- Once receiving a deck of cards for the first time, it is split in half and given
+to 2 different people without a card
+- If one has 2 different decks of cards, sort the two cards
+- Everyone gives back the cards to whoever they got them from
+- 2 decks of cards does not necessarily mean 2 single cards, just 2 sets from different places
+QCC
+- how many times does algo for merging 2 sorted lists happen depending on number of cards?
+- who do you give the merged deck of cards to (since it came from 2 sources)?
+
+THINKER FIRMWARE
+1. Divide deck of cards in half when given cards and give each half to 2 other thinkers
+2. When 2 decks of cards are in the possession of one thinker, the thinker merges the 2 decks of cards
+(which are guaranteed sorted)
+3. The thinker passes the merged deck of cards back to who they got a deck from?
