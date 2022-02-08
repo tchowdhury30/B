@@ -1,0 +1,21 @@
+// Team FrogHats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
+// HW60: A Termite is-a Turtle, a Thinker is-a Turtle
+// 2022-02-07
+// time spent: .5 hrs
+
+DISCO
+- Once receiving a deck of cards for the first time, it is split in half and given
+to 2 different people without a card
+- If one has 2 different decks of cards, sort the two cards
+- Everyone gives back the cards to whoever they got them from
+- 2 decks of cards does not necessarily mean 2 single cards, just 2 sets from different places
+
+QCC
+- how many times does algo for merging 2 sorted lists happen depending on number of cards?
+
+THINKER FIRMWARE
+1. Thinkeren with >1 card split their deck into half and give each half to another Thinkeren.
+2. Thinkeren with 1 card are guaranteed a sorted deck. Return the card to the Thinkeren who had given you it. 
+3. During this return process, the Thinkeren should receive 2 separate decks. Compare the first cards in each deck, and place the smaller card into a new, large deck. Repeat this process until the Thinkeren has one large deck that is sorted.  
+4. Once you have one large sorted deck, return it to the Thinkeren who had given you it. Repeat step 3 until eventually, one Thinkeren possesses the entire, complete deck of cards that is sorted. 
