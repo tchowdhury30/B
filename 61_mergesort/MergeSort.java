@@ -1,9 +1,17 @@
+// Tasnim Chowdhury, Kevin Cheng
+// APCS pd8
+// HW61: Instructions so Simple...
+// 2022-02-08
+// time spent: .5 hrs
+
 /***
   class MergeSort
   Implements mergesort on array of ints.
 
   Summary of Algorithm:
-  1.
+  If array length is 1, then return array (bc it is sorted already). If not,
+  the array is split in half and sort() is called on the halves, then the halves
+  are put into merge(), whose return statement is the completely sorted array.
   ***/
 
 public class MergeSort
@@ -18,17 +26,24 @@ public class MergeSort
   private static int[] merge( int[] a, int[] b )
   {
     int[] merged = new int[(a.length + b.length)];
+    int a_index = 0;
     int b_index = 0;
-    int m_index = 0;
-    for (int num : a) {
-      if (num > b[b_index]) {
-        merged[m_index] = num;
-      }
-      if (num <= b[b_index]) {
-        merged[m_index] = b[b_index];
+
+    for(int i=0; i<merged.length; i++) {
+
+      if (a_index >= a.length) {
+        merged[i] = b[b_index];
+        b_index++;
+      } else if (b_index >= b.length) {
+        merged[i] = a[a_index];
+        a_index++;
+      } else if (a[a_index] <= b[b_index]) {
+        merged[i] = a[a_index];
+        a_index++;
+      } else if (a[a_index] > b[b_index]) {
+        merged[i] = b[b_index];
         b_index++;
       }
-      m_index++;
     }
     return merged;
   }//end merge()
@@ -41,8 +56,28 @@ public class MergeSort
    ******************************************************/
   public static int[] sort( int[] arr )
   {
-    
+    if (arr.length == 1) {
+      return arr;
+    }
 
+    int split = arr.length / 2;
+    int[] left = new int[split];
+    int[] right = new int[arr.length - split];
+
+    for (int i=0; i < split; i++) {
+      left[i] = arr[i];
+    }
+
+    for (int i = split; i < arr.length; i++) {
+      right[i-split] = arr[i];
+    }
+
+    left = sort(left);
+    right = sort(right);
+
+    int[] merge_sorted = merge(left, right );
+
+    return merge_sorted;
   }//end sort()
 
 
@@ -68,7 +103,7 @@ public class MergeSort
   //main method for testing
   public static void main( String [] args )
   {
-    /*~~~~~~~~~~~~~~ Ye Olde Tester Bar ~~~~~~~~~~~~~~
+
       int[] arr0 = {0};
       int[] arr1 = {1};
       int[] arr2 = {1,2};
@@ -84,17 +119,19 @@ public class MergeSort
       printArray( arr3 );
 
       System.out.println("\nMerging arr1 and arr0: ");
-      printArray( merge(arr1,arr0) );
+      printArray( merge(arr0,arr1) );
+
 
       System.out.println("\nMerging arr4 and arr6: ");
       printArray( merge(arr4,arr6) );
+
 
       System.out.println("\nSorting arr4-7...");
       printArray( sort( arr4 ) );
       printArray( sort( arr5 ) );
       printArray( sort( arr6 ) );
       printArray( sort( arr7 ) );
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
   }//end main()
 
 }//end class MergeSort
