@@ -1,3 +1,9 @@
+// Tasnim Chowdhury
+// APCS pd8
+// L06: Read/Review/Expand
+// 2022-02-11
+// time spent: 1.5 hr
+
 import java.util.Scanner;
 import java.io.File;
 import java.util.HashMap;

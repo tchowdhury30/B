@@ -1,8 +1,7 @@
-
 // Tasnim Chowdhury
 // APCS pd8
-// HW63: Read/Review/Expand
-// 2022-02-10
+// L06: Read/Review/Expand
+// 2022-02-11
 // time spent: 1.5 hr
 
 Activity 1
@@ -70,3 +69,11 @@ Activity 4
 7. The method would need to replace all negative and neutral adjectives in the review with positive
   adjectives. It can do this using the randomPositiveAdj() method in its algorithmn instead of
   using randomAdjective().
+
+Activity 5
+1.
+2.
+3.
+4.
+5.
+6.
