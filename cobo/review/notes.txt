@@ -54,3 +54,19 @@ Activity 3
 
 Activity 4
 1. Intentionally make a business fail by bringing negative attention to it.
+2. Intentionally make a business look better to consumers by bringing positive attention to it.
+3. The method needs to first check the  totalSentiment value of the review to check if it is more
+  negative or positive using a conditional. Then depending on if its more positive, then the method will iteriate through
+  every word and change all the neutral (sentimentVal = 0) and negative (sentimentVal < 0) ones and
+  change them to a value from negAdjectives. If the review is more negative then it will do the same
+  except only replace the negative and neutral words with a value from posAdjectives.
+4. Updated fakeReview.
+5. The result is changing a local string variable called oneWord into part of the string of oneWord
+  starting at index 1, so the oneWord variable would become a the same string as the original except with
+  the first letter cut off.
+6. It is necessary so an accurate comparison can be made between the words in the cleanSentiment.csv file
+  and the words in the review. There are no words with the asterisk in the csv file so the sentiment value
+  would be 0 if the asterisk was not removed.
+7. The method would need to replace all negative and neutral adjectives in the review with positive
+  adjectives. It can do this using the randomPositiveAdj() method in its algorithmn instead of
+  using randomAdjective().

@@ -140,6 +140,7 @@ public class Review {
   {
     String review = textToString(fileName);
     String ans = "";
+    float total = totalSentiment(review);
 
     for(int i = 0; i < review.length()-1; i++) {
       if(review.substring(i, i+1).equals("*")) {
@@ -154,7 +155,13 @@ public class Review {
           }
         }
         adj = removePunctuation(adj);
-        adj = randomAdjective() + " ";
+        if (total > 0.0) {
+          adj = randomNegativeAdj()+ " ";
+        } else if (total < 0.0) {
+          adj = randomPositiveAdj()+ " ";
+        } else {
+          adj = randomAdjective()+ " ";
+        }
         ans += adj;
       } else {
         ans += review.substring(i, i+1);
@@ -236,5 +243,6 @@ public class Review {
     System.out.println(sentimentVal("bearded"));
     System.out.println(totalSentiment("SimpleReview.txt"));
     */
+
   }
 }
