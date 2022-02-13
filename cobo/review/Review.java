@@ -1,8 +1,8 @@
-// Tasnim Chowdhury
+// Froghats: Kevin Cheng, Tasnim Chowdhury, Prattay Dey
 // APCS pd8
 // L06: Read/Review/Expand
 // 2022-02-11
-// time spent: 1.5 hr
+// time spent: 3 hr
 
 import java.util.Scanner;
 import java.io.File;
@@ -146,7 +146,7 @@ public class Review {
   {
     String review = textToString(fileName);
     String ans = "";
-    float total = totalSentiment(review);
+    double total = totalSentiment(review);
 
     for(int i = 0; i < review.length()-1; i++) {
       if(review.substring(i, i+1).equals("*")) {

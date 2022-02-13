@@ -2,7 +2,7 @@
 // APCS pd8
 // L06: Read/Review/Expand
 // 2022-02-11
-// time spent: 1.5 hr
+// time spent: 3 hr
 
 This was a *terrible restaurant!
 The pizza crust was too *chewy, and I disliked the pasta. I would not come back.
