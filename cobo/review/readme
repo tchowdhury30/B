@@ -1,4 +1,4 @@
-errata:
-
-* hashmap is java equivalent to the python dictionaries you know and love
-* nothing else should seem too unfamiliar to a Thinker
+Team Froghats: Prattay Dey, Tasnim Chowdhury, Kevin Cheng
+* Overall, most of the methods we needed to code for the lab as well as the questions were straightforward.
+* We did have some difficulty implementing the fake review method, partly because we forgot we had to remove any punctuation before finding the sentiment value of a word, and then reinsert the punctuation again.
+* For activity 5, we decided to program caesar cipher because it was a relatively standard and well known encryption method that would involve the manipulation of strings as we did in the lab.

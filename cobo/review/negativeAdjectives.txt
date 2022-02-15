@@ -1,11 +1,19 @@
-// Tasnim Chowdhury
+// Froghats: Kevin Cheng, Tasnim Chowdhury, Prattay Dey
 // APCS pd8
 // L06: Read/Review/Expand
 // 2022-02-11
 // time spent: 1.5 hr
 
-administrative
-adverse
-aerobic
-affirmative
-aggressive
+bad
+trash
+worst
+horrible
+appalling
+terrible
+disgusting
+dismissive
+displeasing
+rude
+angry
+chaotic
+cancerous

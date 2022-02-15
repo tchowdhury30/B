@@ -1,13 +1,21 @@
-// Tasnim Chowdhury
+// Froghats: Kevin Cheng, Tasnim Chowdhury, Prattay Dey
 // APCS pd8
 // L06: Read/Review/Expand
 // 2022-02-11
 // time spent: 1.5 hr
 
-above
-abruptly
-academic
-accepted
-accessible
-acclaimed
-accurate
+great
+outstanding
+terrific
+good
+well
+amazing
+awesome
+fire
+best
+capable
+generous
+agreeable
+magnificent
+glowing
+gleaming
