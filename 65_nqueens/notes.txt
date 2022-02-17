@@ -1,0 +1,14 @@
+Team FrogHats: Prattay Dey + Tasnim Chowdhury + Kevin Cheng
+APCS pd08
+HW65 -- How Many Queens Can a Thinker Place, If a Thinker Can Place Queens...
+2022-02-16
+time spent: 1.0 hrs
+
+DISCOS:
+- We can test multiple board sizes quickly in the main method by utilizing a for loop and increasing the board's size by 1 each time.
+- 2x2 and 3x3 boards have no solutions. Sketching it out also confirms that this is indeed impossible.
+- addQueen and removeQueen are used to make and terminate new branches of the recursive tree depending on whether they lead to a solution.
+
+QCCs:
+- What is the non-recursive way to approaching the N Queens problem?
+- Is there a way to display all possible arrangements of Queens within a certain sized board all at once?
