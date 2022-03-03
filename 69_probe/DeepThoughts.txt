@@ -1,0 +1,31 @@
+Abdullah Faruque and Tasnim Chowdhury
+APCS
+HW69: Making Sense
+2022-03-02
+Time spent: 0.5 hours
+
+*board was not printed during testing + 0 delay*
+n=5  0.010 seconds over 5 runs
+n=6  0.115 seconds over 5 runs
+n=7  3.852 seconds over 5 runs
+n=8  still running
+
+1.
+q0- An open tour can always be found from any starting position as long as the board size is greater than 4 since knights can visit squares more than once and go back to old moves.
+q1- A closed tour can not always be found from any starting position. A closed tour on a 5 by 5 board must start on a corner and end in one; this happens because a knight must end on the color opposite to the starting one.
+q2- execution time increases exponentially as n increases since the number of possible moves increases exponentially. The time complexity is O(n^2).
+q3- When deciding its next move, the knight should choose the square that lets them make the least number of possible moves upon landing on that square. Under this rule, the knight puts priority on squares that are difficult to reach, leaving the easily accessible ones for last. This rule would get rid of a lot of backtracking and let the machine find the solution quicker. Below, the knight goes to either square with a 2.
+        . . . . .
+        2 . 5 . .
+        . . . 7 .
+        . k . . .
+        . . . 5 .
+        2 . 3 . .
+
+
+
+
+
+
+2.
+Every move, every surrounding cell can be checked to see if its the end, an obstacle, a possible new cell to move to, or the previous cell. If there’s a possible empty cell to go to, move to one of them and repeat this process until there are no more empty cells to move to or the end is reached. If there are no more spaces to move to, a dead end is reached and backtrack to the cell with multiple empty cells to move to. If the end is reached, a solution is found
