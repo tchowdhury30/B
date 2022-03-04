@@ -154,7 +154,7 @@ class MazeSolver
       else if( _maze[y][x] == PATH) {
         _maze[y][x] = HERO;
         System.out.println( this ); //refresh screen
-        _maze[y][x] = VISITED_PATH;
+        _maze[y][x] = HERO;
         int[] xOffset = {1, 0, -1, 0};
         int[] yOffset = {0, -1, 0, 1};
         for(int i = 0; i<=3; i++){
