@@ -1,0 +1,64 @@
+Activity 2
+ 1. Deck has a list of cards
+ 2. 6 card 
+ 3. rank = {“ace”, “king”, “queen”, “jack”, “10”, “9”, “8”, “7”, “6”, “5”, “4”, “3”, “2”}
+    suits = {“spades”, “hearts”, “clubs”, “diamonds”}
+    pointValues = {11, 10, 10, 10, 10, 10, 9, 8, 7, 6, 5, 4, 3, 2}
+ 4. It affects the order of the cards in the deck and how they are dealt.
+
+Activity 3
+ 1. public static String flip(){
+      int chance = (int) Math.random() * 3;
+      if (chance > 1) {
+          return “heads”;
+      else 
+           return “tails”;
+      }
+
+ 2. public static void arePermutations(int[] one, int[] two) {
+      if one.length() != two.length() {
+        return false;
+      }
+      sort(one);
+      sort(two);
+      for (int i=0; i <= one.length(); i++) {
+        if one[i] != two[i] {
+          return false; }
+      }
+      return true;
+    }
+ 3. r = 0, 2, 1, 0
+
+Activity 6
+ 1. 5 of clubs + 6 of clubs
+    5 of diamonds + 6 of clubs
+ 3. No, because this is a game where you can win or lose. This is the way to lose.
+ 4. No, there is little strategy, its mostly by pure chance
+
+Activity 7
+ 1. Deck of 52 cards with 4 suits, Your will to Live
+    private static final int BOARD_SIZE
+    private static final String[] RANKS
+    private static final String[] SUITS
+    private static final int[] POINT_VALUES
+ 2. Shuffle the deck and place them to make the board. Pick up pairs or triplets as per the rules. Replace them with more cards from the deck until there are no more. 
+ 3. It is missing a game is lost method
+ 4. A. It’s line 206, and it’s in the constructor and in new game
+    B. anotherPlayIsPossible, isLegal
+    C. {0, 1, 3, 6, 7}
+    D. public static void printCards (ElevensBoard board) {
+         List<Integer> cIndexes = board.cardIndexes();
+         for (Integer i : cIndexes) {
+         System.out.println(board.cardAt(i).toString());
+       }
+    E. anotherPlayIsPossible? Because it needs to see what cards are left in the first place
+
+Activity 8
+ 1. They all have the same methods, except isLegal and anotherPlaysisPossible is abstract
+ 2. They would be specific in classes that inherit from Board
+ 3. They cover all the differences because the only differences are the different pairs which would only change those methods because they examine the pairs. 
+
+Activity 9
+ 1. Size is not an abstract method because it is a final variable/property of board that does not have any process that needs to be done to it.
+ 2. Because these methods are the same no matter what kind of board is being used
+ 3. It’s not polymorphic as interfaces implement abstract methods. This would not work as well as an abstract Board class design because we could not keep all the non abstract methods in an interface and would need to rewrite these methods in every subclass of Board.
