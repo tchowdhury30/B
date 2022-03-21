@@ -1,6 +1,11 @@
+Buckaroos | Tasnim Chowdhury, Faiza Huda, Gabriel Thompson
+apcs pd8
+20-03-2022
+time spent: 3hrs
+
 Activity 2
  1. Deck has a list of cards
- 2. 6 card 
+ 2. 6 card
  3. rank = {“ace”, “king”, “queen”, “jack”, “10”, “9”, “8”, “7”, “6”, “5”, “4”, “3”, “2”}
     suits = {“spades”, “hearts”, “clubs”, “diamonds”}
     pointValues = {11, 10, 10, 10, 10, 10, 9, 8, 7, 6, 5, 4, 3, 2}
@@ -11,7 +16,7 @@ Activity 3
       int chance = (int) Math.random() * 3;
       if (chance > 1) {
           return “heads”;
-      else 
+      else
            return “tails”;
       }
 
@@ -41,7 +46,7 @@ Activity 7
     private static final String[] RANKS
     private static final String[] SUITS
     private static final int[] POINT_VALUES
- 2. Shuffle the deck and place them to make the board. Pick up pairs or triplets as per the rules. Replace them with more cards from the deck until there are no more. 
+ 2. Shuffle the deck and place them to make the board. Pick up pairs or triplets as per the rules. Replace them with more cards from the deck until there are no more.
  3. It is missing a game is lost method
  4. A. It’s line 206, and it’s in the constructor and in new game
     B. anotherPlayIsPossible, isLegal
@@ -56,7 +61,7 @@ Activity 7
 Activity 8
  1. They all have the same methods, except isLegal and anotherPlaysisPossible is abstract
  2. They would be specific in classes that inherit from Board
- 3. They cover all the differences because the only differences are the different pairs which would only change those methods because they examine the pairs. 
+ 3. They cover all the differences because the only differences are the different pairs which would only change those methods because they examine the pairs.
 
 Activity 9
  1. Size is not an abstract method because it is a final variable/property of board that does not have any process that needs to be done to it.
