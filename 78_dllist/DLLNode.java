@@ -7,24 +7,24 @@
 /*****************************************************
  * class LLNode
  * Implements a node, for use in lists and other container classes.
- * Stores its data as a String
+ * Stores its data as a T
  *****************************************************/
 
-public class DLLNode
+public class DLLNode 
 {
     //instance vars
-    private String _cargo;    //cargo may only be of type String
-    private LLNode _nextNode; //pointer to next LLNode
-    private LLNode _previousNode; //pointer to previous LLNode
+    private _cargo<T> _cargo = new _cargo<T>();    //cargo may only be of type T
+    private DLLNode _nextNode; //pointer to next LLNode
+    private DLLNode _previousNode; //pointer to previous LLNode
 
     // constructor -- initializes instance vars
-    public DLLNode( String value, LLNode next, LLNode prev) {
+    public DLLNode( T value, DLLNode next, DLLNode prev) {
 	      _cargo = value;
 	      _nextNode = next;
         _previousNode = prev;
     }
 
-    public DLLNode(String value, DLLNode next) {
+    public DLLNode(T value, DLLNode next) {
       _previousNode = null;
       _cargo = value;
       _nextNode = next;
@@ -32,29 +32,29 @@ public class DLLNode
 
 
     //--------------v  ACCESSORS  v--------------
-    public String getCargo() { return _cargo; }
+    public T getCargo() { return _cargo; }
 
-    public LLNode getNext() { return _nextNode; }
+    public DLLNode getNext() { return _nextNode; }
 
-    public LLNode getPrev() { return _previousNode; }
+    public DLLNode getPrev() { return _previousNode; }
     //--------------^  ACCESSORS  ^--------------
 
 
     //--------------v  MUTATORS  v--------------
-    public String setCargo( String newCargo ) {
-      String foo = getCargo();
+    public T setCargo( T newCargo ) {
+      T foo = getCargo();
       _cargo = newCargo;
       return foo;
     }
 
-    public LLNode setNext( LLNode newNext ) {
-	     LLNode foo = getNext();
+    public DLLNode setNext( DLLNode newNext ) {
+	     DLLNode foo = getNext();
 	     _nextNode = newNext;
        return foo;
     }
 
-    public LLNode setPrev( LLNode newPrev ) {
-      LLnode foo = getPrev();
+    public DLLNode setPrev( DLLNode newPrev ) {
+      DLLNode foo = getPrev();
       _previousNode = newPrev;
       return foo;
     }
