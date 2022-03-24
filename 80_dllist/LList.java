@@ -2,7 +2,7 @@ public class LList<T> implements List<T> //your List interface must be in same d
 {
 
   //instance vars
-  private DLLNode<t> _head;
+  private DLLNode<T> _head;
   private int _size;
 
   // constructor -- initializes instance vars
@@ -138,7 +138,7 @@ public class LList<T> implements List<T> //your List interface must be in same d
   public String toString()
   {
     String retStr = "HEAD->";
-    LLNode tmp = _head; //init tr
+    DLLNode<T> tmp = _head; //init tr
     while( tmp != null ) {
 	    retStr += tmp.getCargo() + "->";
 	    tmp = tmp.getNext();
