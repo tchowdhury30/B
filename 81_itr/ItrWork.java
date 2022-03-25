@@ -12,9 +12,10 @@
 
 /***
     DISCO
-
+    - Its used in Scanner
+    
     QCC
-    Why do we have to typecast to Integer from int instead of just using Integer from the start?
+
 
     SUMMARY THE FIRST:
     Interface Iterator is a set of methods used to get an element from a collection (set, list, map)
@@ -22,7 +23,8 @@
     Its methods are hasNext(), next(), remove()
 
     SUMMARY THE SECOND:
-
+    Iterator is a collection of methods using loops to get rid of elements of a collection with more
+    ease than a for each loop
 **/
 
 
