@@ -1,0 +1,12 @@
+// Team Acid: Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
+// APCS pd08
+// HW82: Roll Your Own Iterator
+// 2022-03-25
+// time spent: 0.5 hrs
+
+DISCO
+- It is interesting to see Java was thinking about a specific case where a programmer
+needs a private class just to help one other class
+
+QCC
+- What instances would the iterable methods be useful if not for a collection of some type?
