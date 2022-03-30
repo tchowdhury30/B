@@ -32,8 +32,12 @@ public class Latkes
   {
     _stack = new String[initCapacity];
     _stackSize = 0;
-  }// O(?)
+  }// O(1)
 
+  //returns object at top of stack
+  public peek() {
+    return _stack[_stackSize];
+  }// O(1)
 
   //means of insertion
   public void push( String s )
