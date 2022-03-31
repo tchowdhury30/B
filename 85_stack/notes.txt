@@ -1,0 +1,11 @@
+// Team Acid: Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
+// APCS pd08
+// HW85: Leon Leonwood Stack
+// 2022-03-29
+// time spent: 0.5 hrs
+
+DISCO
+- Implementing stack was so much easier than we thought because all we had to do was use the
+already existing methods in the imported classes and rename the methods or slightly tweak them.
+
+QCC
