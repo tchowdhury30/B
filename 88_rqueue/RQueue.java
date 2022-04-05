@@ -25,28 +25,40 @@ public class RQueue<SWASHBUCKLE> implements Queue<SWASHBUCKLE>
   // default constructor creates an empty queue
   public RQueue()
   {
-
+    _size = 0;
+    _front = null;
+    _end = null;
   }
 
 
-  public void enqueue( T enQVal )
+  public void enqueue( SWASHBUCKLE enQVal )
   {
-
-  }//O(?)
+    //special case: when enqueuing to an empty list,
+    //make _front && _end point to same node
+    if ( isEmpty() ) {
+      _front = _end = new LLNode<SWASHBUCKLE>( enQVal, null );
+    }
+    else {
+      _end.setNext( new LLNode<SWASHBUCKLE>( enQVal, null ) );
+      _end = _end.getNext();
+    }
+    _size++;
+    System.out.println("enqueued " + enQVal);
+  }//O(1)
 
 
   // remove and return thing at front of queue
   // assume _queue ! empty
   public T dequeue()
   {
-
-  }//O(?)
+    
+  }//O(1)
 
 
   public T peekFront()
   {
-
-  }//O(?)
+    return _front.getCargo();
+  }//O(n)
 
 
   /***
@@ -56,6 +68,9 @@ public class RQueue<SWASHBUCKLE> implements Queue<SWASHBUCKLE>
    **/
   public void sample ()
   {
+    int ran = (int) (Math.random() * _size);
+
+
 
   }//O(?)
 
@@ -63,7 +78,7 @@ public class RQueue<SWASHBUCKLE> implements Queue<SWASHBUCKLE>
   public boolean isEmpty()
   {
     return _front == null;
-  } //O(?)
+  } //O(1)
 
 
   // print each node, separated by spaces
