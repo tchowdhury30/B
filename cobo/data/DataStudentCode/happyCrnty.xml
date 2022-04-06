@@ -1,0 +1,2061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <RANK>1</RANK>
+    <Country>Finland</Country>
+    <Happiness score>7,821</Happiness score>
+    <Whisker-high>7,886</Whisker-high>
+    <Whisker-low>7,756</Whisker-low>
+    <Dystopia (1.83) + residual>2,518</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,892</Explained by: GDP per capita>
+    <Explained by: Social support>1,258</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,775</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,736</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,109</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,534</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>2</RANK>
+    <Country>Denmark</Country>
+    <Happiness score>7,636</Happiness score>
+    <Whisker-high>7,710</Whisker-high>
+    <Whisker-low>7,563</Whisker-low>
+    <Dystopia (1.83) + residual>2,226</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,953</Explained by: GDP per capita>
+    <Explained by: Social support>1,243</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,777</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,719</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,188</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,532</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>3</RANK>
+    <Country>Iceland</Country>
+    <Happiness score>7,557</Happiness score>
+    <Whisker-high>7,651</Whisker-high>
+    <Whisker-low>7,464</Whisker-low>
+    <Dystopia (1.83) + residual>2,320</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,936</Explained by: GDP per capita>
+    <Explained by: Social support>1,320</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,803</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,718</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,270</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,191</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>4</RANK>
+    <Country>Switzerland</Country>
+    <Happiness score>7,512</Happiness score>
+    <Whisker-high>7,586</Whisker-high>
+    <Whisker-low>7,437</Whisker-low>
+    <Dystopia (1.83) + residual>2,153</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>2,026</Explained by: GDP per capita>
+    <Explained by: Social support>1,226</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,822</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,677</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,147</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,461</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>5</RANK>
+    <Country>Netherlands</Country>
+    <Happiness score>7,415</Happiness score>
+    <Whisker-high>7,471</Whisker-high>
+    <Whisker-low>7,359</Whisker-low>
+    <Dystopia (1.83) + residual>2,137</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,945</Explained by: GDP per capita>
+    <Explained by: Social support>1,206</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,787</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,651</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,271</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,419</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>6</RANK>
+    <Country>Luxembourg*</Country>
+    <Happiness score>7,404</Happiness score>
+    <Whisker-high>7,501</Whisker-high>
+    <Whisker-low>7,307</Whisker-low>
+    <Dystopia (1.83) + residual>2,042</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>2,209</Explained by: GDP per capita>
+    <Explained by: Social support>1,155</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,790</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,700</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,120</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,388</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>7</RANK>
+    <Country>Sweden</Country>
+    <Happiness score>7,384</Happiness score>
+    <Whisker-high>7,454</Whisker-high>
+    <Whisker-low>7,315</Whisker-low>
+    <Dystopia (1.83) + residual>2,003</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,920</Explained by: GDP per capita>
+    <Explained by: Social support>1,204</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,803</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,724</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,218</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,512</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>8</RANK>
+    <Country>Norway</Country>
+    <Happiness score>7,365</Happiness score>
+    <Whisker-high>7,440</Whisker-high>
+    <Whisker-low>7,290</Whisker-low>
+    <Dystopia (1.83) + residual>1,925</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,997</Explained by: GDP per capita>
+    <Explained by: Social support>1,239</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,786</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,728</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,217</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,474</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>9</RANK>
+    <Country>Israel</Country>
+    <Happiness score>7,364</Happiness score>
+    <Whisker-high>7,426</Whisker-high>
+    <Whisker-low>7,301</Whisker-low>
+    <Dystopia (1.83) + residual>2,634</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,826</Explained by: GDP per capita>
+    <Explained by: Social support>1,221</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,818</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,568</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,155</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,143</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>10</RANK>
+    <Country>New Zealand</Country>
+    <Happiness score>7,200</Happiness score>
+    <Whisker-high>7,279</Whisker-high>
+    <Whisker-low>7,120</Whisker-low>
+    <Dystopia (1.83) + residual>1,954</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,852</Explained by: GDP per capita>
+    <Explained by: Social support>1,235</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,752</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,680</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,245</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,483</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>11</RANK>
+    <Country>Austria</Country>
+    <Happiness score>7,163</Happiness score>
+    <Whisker-high>7,237</Whisker-high>
+    <Whisker-low>7,089</Whisker-low>
+    <Dystopia (1.83) + residual>2,148</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,931</Explained by: GDP per capita>
+    <Explained by: Social support>1,165</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,774</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,623</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,193</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,329</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>12</RANK>
+    <Country>Australia</Country>
+    <Happiness score>7,162</Happiness score>
+    <Whisker-high>7,244</Whisker-high>
+    <Whisker-low>7,081</Whisker-low>
+    <Dystopia (1.83) + residual>2,011</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,900</Explained by: GDP per capita>
+    <Explained by: Social support>1,203</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,772</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,676</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,258</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,341</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>13</RANK>
+    <Country>Ireland</Country>
+    <Happiness score>7,041</Happiness score>
+    <Whisker-high>7,121</Whisker-high>
+    <Whisker-low>6,961</Whisker-low>
+    <Dystopia (1.83) + residual>1,743</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>2,129</Explained by: GDP per capita>
+    <Explained by: Social support>1,166</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,779</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,627</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,190</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,408</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>14</RANK>
+    <Country>Germany</Country>
+    <Happiness score>7,034</Happiness score>
+    <Whisker-high>7,122</Whisker-high>
+    <Whisker-low>6,947</Whisker-low>
+    <Dystopia (1.83) + residual>2,142</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,924</Explained by: GDP per capita>
+    <Explained by: Social support>1,088</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,776</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,585</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,163</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,358</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>15</RANK>
+    <Country>Canada</Country>
+    <Happiness score>7,025</Happiness score>
+    <Whisker-high>7,107</Whisker-high>
+    <Whisker-low>6,943</Whisker-low>
+    <Dystopia (1.83) + residual>1,924</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,886</Explained by: GDP per capita>
+    <Explained by: Social support>1,188</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,783</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,659</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,217</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,368</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>16</RANK>
+    <Country>United States</Country>
+    <Happiness score>6,977</Happiness score>
+    <Whisker-high>7,065</Whisker-high>
+    <Whisker-low>6,888</Whisker-low>
+    <Dystopia (1.83) + residual>2,214</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,982</Explained by: GDP per capita>
+    <Explained by: Social support>1,182</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,628</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,574</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,220</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,177</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>17</RANK>
+    <Country>United Kingdom</Country>
+    <Happiness score>6,943</Happiness score>
+    <Whisker-high>7,018</Whisker-high>
+    <Whisker-low>6,867</Whisker-low>
+    <Dystopia (1.83) + residual>1,967</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,867</Explained by: GDP per capita>
+    <Explained by: Social support>1,143</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,750</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,597</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,289</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,329</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>18</RANK>
+    <Country>Czechia</Country>
+    <Happiness score>6,920</Happiness score>
+    <Whisker-high>7,029</Whisker-high>
+    <Whisker-low>6,811</Whisker-low>
+    <Dystopia (1.83) + residual>2,263</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,815</Explained by: GDP per capita>
+    <Explained by: Social support>1,260</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,715</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,660</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,158</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,048</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>19</RANK>
+    <Country>Belgium</Country>
+    <Happiness score>6,805</Happiness score>
+    <Whisker-high>6,890</Whisker-high>
+    <Whisker-low>6,720</Whisker-low>
+    <Dystopia (1.83) + residual>2,283</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,907</Explained by: GDP per capita>
+    <Explained by: Social support>1,106</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,764</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,492</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,049</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,204</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>20</RANK>
+    <Country>France</Country>
+    <Happiness score>6,687</Happiness score>
+    <Whisker-high>6,758</Whisker-high>
+    <Whisker-low>6,615</Whisker-low>
+    <Dystopia (1.83) + residual>1,895</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,863</Explained by: GDP per capita>
+    <Explained by: Social support>1,219</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,808</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,567</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,070</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,266</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>21</RANK>
+    <Country>Bahrain</Country>
+    <Happiness score>6,647</Happiness score>
+    <Whisker-high>6,779</Whisker-high>
+    <Whisker-low>6,514</Whisker-low>
+    <Dystopia (1.83) + residual>2,092</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,854</Explained by: GDP per capita>
+    <Explained by: Social support>1,029</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,625</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,693</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,199</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,155</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>22</RANK>
+    <Country>Slovenia</Country>
+    <Happiness score>6,630</Happiness score>
+    <Whisker-high>6,718</Whisker-high>
+    <Whisker-low>6,542</Whisker-low>
+    <Dystopia (1.83) + residual>1,885</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,810</Explained by: GDP per capita>
+    <Explained by: Social support>1,249</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,769</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,685</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,118</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,115</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>23</RANK>
+    <Country>Costa Rica</Country>
+    <Happiness score>6,582</Happiness score>
+    <Whisker-high>6,683</Whisker-high>
+    <Whisker-low>6,481</Whisker-low>
+    <Dystopia (1.83) + residual>2,346</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,584</Explained by: GDP per capita>
+    <Explained by: Social support>1,054</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,744</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,661</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,089</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,102</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>24</RANK>
+    <Country>United Arab Emirates</Country>
+    <Happiness score>6,576</Happiness score>
+    <Whisker-high>6,660</Whisker-high>
+    <Whisker-low>6,492</Whisker-low>
+    <Dystopia (1.83) + residual>1,809</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,998</Explained by: GDP per capita>
+    <Explained by: Social support>0,980</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,633</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,702</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,204</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,250</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>25</RANK>
+    <Country>Saudi Arabia</Country>
+    <Happiness score>6,523</Happiness score>
+    <Whisker-high>6,637</Whisker-high>
+    <Whisker-low>6,409</Whisker-low>
+    <Dystopia (1.83) + residual>2,075</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,870</Explained by: GDP per capita>
+    <Explained by: Social support>1,092</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,577</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,651</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,078</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,180</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>26</RANK>
+    <Country>Taiwan Province of China</Country>
+    <Happiness score>6,512</Happiness score>
+    <Whisker-high>6,596</Whisker-high>
+    <Whisker-low>6,429</Whisker-low>
+    <Dystopia (1.83) + residual>2,002</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,897</Explained by: GDP per capita>
+    <Explained by: Social support>1,095</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,733</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,542</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,075</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,168</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>27</RANK>
+    <Country>Singapore</Country>
+    <Happiness score>6,480</Happiness score>
+    <Whisker-high>6,569</Whisker-high>
+    <Whisker-low>6,392</Whisker-low>
+    <Dystopia (1.83) + residual>0,932</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>2,149</Explained by: GDP per capita>
+    <Explained by: Social support>1,127</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,851</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,672</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,163</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,587</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>28</RANK>
+    <Country>Romania</Country>
+    <Happiness score>6,477</Happiness score>
+    <Whisker-high>6,575</Whisker-high>
+    <Whisker-low>6,379</Whisker-low>
+    <Dystopia (1.83) + residual>2,446</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,719</Explained by: GDP per capita>
+    <Explained by: Social support>1,006</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,655</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,605</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,039</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,006</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>29</RANK>
+    <Country>Spain</Country>
+    <Happiness score>6,476</Happiness score>
+    <Whisker-high>6,560</Whisker-high>
+    <Whisker-low>6,392</Whisker-low>
+    <Dystopia (1.83) + residual>1,893</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,808</Explained by: GDP per capita>
+    <Explained by: Social support>1,211</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,808</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,505</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,101</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,149</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>30</RANK>
+    <Country>Uruguay</Country>
+    <Happiness score>6,474</Happiness score>
+    <Whisker-high>6,562</Whisker-high>
+    <Whisker-low>6,386</Whisker-low>
+    <Dystopia (1.83) + residual>1,974</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,615</Explained by: GDP per capita>
+    <Explained by: Social support>1,180</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,672</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,665</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,103</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,265</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>31</RANK>
+    <Country>Italy</Country>
+    <Happiness score>6,467</Happiness score>
+    <Whisker-high>6,570</Whisker-high>
+    <Whisker-low>6,363</Whisker-low>
+    <Dystopia (1.83) + residual>2,222</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,834</Explained by: GDP per capita>
+    <Explained by: Social support>1,052</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,801</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,412</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,085</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,059</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>32</RANK>
+    <Country>Kosovo</Country>
+    <Happiness score>6,455</Happiness score>
+    <Whisker-high>6,571</Whisker-high>
+    <Whisker-low>6,339</Whisker-low>
+    <Dystopia (1.83) + residual>2,631</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,362</Explained by: GDP per capita>
+    <Explained by: Social support>0,949</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,569</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,599</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,309</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,035</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>33</RANK>
+    <Country>Malta</Country>
+    <Happiness score>6,447</Happiness score>
+    <Whisker-high>6,535</Whisker-high>
+    <Whisker-low>6,359</Whisker-low>
+    <Dystopia (1.83) + residual>1,631</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,838</Explained by: GDP per capita>
+    <Explained by: Social support>1,169</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,789</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,679</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,174</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,166</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>34</RANK>
+    <Country>Lithuania</Country>
+    <Happiness score>6,446</Happiness score>
+    <Whisker-high>6,535</Whisker-high>
+    <Whisker-low>6,356</Whisker-low>
+    <Dystopia (1.83) + residual>2,153</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,804</Explained by: GDP per capita>
+    <Explained by: Social support>1,204</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,659</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,496</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,053</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,077</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>35</RANK>
+    <Country>Slovakia</Country>
+    <Happiness score>6,391</Happiness score>
+    <Whisker-high>6,475</Whisker-high>
+    <Whisker-low>6,306</Whisker-low>
+    <Dystopia (1.83) + residual>2,094</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,736</Explained by: GDP per capita>
+    <Explained by: Social support>1,232</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,707</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,479</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,118</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,025</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>36</RANK>
+    <Country>Estonia</Country>
+    <Happiness score>6,341</Happiness score>
+    <Whisker-high>6,415</Whisker-high>
+    <Whisker-low>6,266</Whisker-low>
+    <Dystopia (1.83) + residual>1,442</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,793</Explained by: GDP per capita>
+    <Explained by: Social support>1,232</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,728</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,689</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,123</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,333</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>37</RANK>
+    <Country>Panama</Country>
+    <Happiness score>6,309</Happiness score>
+    <Whisker-high>6,464</Whisker-high>
+    <Whisker-low>6,154</Whisker-low>
+    <Dystopia (1.83) + residual>2,086</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,715</Explained by: GDP per capita>
+    <Explained by: Social support>1,107</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,709</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,592</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,049</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,051</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>38</RANK>
+    <Country>Brazil</Country>
+    <Happiness score>6,293</Happiness score>
+    <Whisker-high>6,384</Whisker-high>
+    <Whisker-low>6,202</Whisker-low>
+    <Dystopia (1.83) + residual>2,361</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,462</Explained by: GDP per capita>
+    <Explained by: Social support>1,044</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,615</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,546</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,131</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,134</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>39</RANK>
+    <Country>Guatemala*</Country>
+    <Happiness score>6,262</Happiness score>
+    <Whisker-high>6,460</Whisker-high>
+    <Whisker-low>6,064</Whisker-low>
+    <Dystopia (1.83) + residual>2,746</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,274</Explained by: GDP per capita>
+    <Explained by: Social support>0,831</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,522</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,662</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,112</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,115</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>40</RANK>
+    <Country>Kazakhstan</Country>
+    <Happiness score>6,234</Happiness score>
+    <Whisker-high>6,330</Whisker-high>
+    <Whisker-low>6,138</Whisker-low>
+    <Dystopia (1.83) + residual>1,860</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,668</Explained by: GDP per capita>
+    <Explained by: Social support>1,220</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,611</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,584</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,134</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,157</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>41</RANK>
+    <Country>Cyprus</Country>
+    <Happiness score>6,221</Happiness score>
+    <Whisker-high>6,320</Whisker-high>
+    <Whisker-low>6,122</Whisker-low>
+    <Dystopia (1.83) + residual>2,044</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,815</Explained by: GDP per capita>
+    <Explained by: Social support>0,909</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,819</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,448</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,123</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,062</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>42</RANK>
+    <Country>Latvia</Country>
+    <Happiness score>6,180</Happiness score>
+    <Whisker-high>6,255</Whisker-high>
+    <Whisker-low>6,106</Whisker-low>
+    <Dystopia (1.83) + residual>1,923</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,732</Explained by: GDP per capita>
+    <Explained by: Social support>1,221</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,637</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,502</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,075</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,090</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>43</RANK>
+    <Country>Serbia</Country>
+    <Happiness score>6,178</Happiness score>
+    <Whisker-high>6,294</Whisker-high>
+    <Whisker-low>6,062</Whisker-low>
+    <Dystopia (1.83) + residual>2,031</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,550</Explained by: GDP per capita>
+    <Explained by: Social support>1,086</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,658</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,546</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,219</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,088</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>44</RANK>
+    <Country>Chile</Country>
+    <Happiness score>6,172</Happiness score>
+    <Whisker-high>6,262</Whisker-high>
+    <Whisker-low>6,082</Whisker-low>
+    <Dystopia (1.83) + residual>2,040</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,651</Explained by: GDP per capita>
+    <Explained by: Social support>1,080</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,748</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,460</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,124</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,069</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>45</RANK>
+    <Country>Nicaragua</Country>
+    <Happiness score>6,165</Happiness score>
+    <Whisker-high>6,312</Whisker-high>
+    <Whisker-low>6,017</Whisker-low>
+    <Dystopia (1.83) + residual>2,418</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,105</Explained by: GDP per capita>
+    <Explained by: Social support>1,029</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,617</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,617</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,168</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,212</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>46</RANK>
+    <Country>Mexico</Country>
+    <Happiness score>6,128</Happiness score>
+    <Whisker-high>6,238</Whisker-high>
+    <Whisker-low>6,017</Whisker-low>
+    <Dystopia (1.83) + residual>2,239</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,552</Explained by: GDP per capita>
+    <Explained by: Social support>0,886</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,623</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,621</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,092</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,115</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>47</RANK>
+    <Country>Croatia</Country>
+    <Happiness score>6,125</Happiness score>
+    <Whisker-high>6,229</Whisker-high>
+    <Whisker-low>6,022</Whisker-low>
+    <Dystopia (1.83) + residual>1,884</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,705</Explained by: GDP per capita>
+    <Explained by: Social support>1,183</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,709</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,535</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,109</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,000</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>48</RANK>
+    <Country>Poland</Country>
+    <Happiness score>6,123</Happiness score>
+    <Whisker-high>6,205</Whisker-high>
+    <Whisker-low>6,040</Whisker-low>
+    <Dystopia (1.83) + residual>1,693</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,758</Explained by: GDP per capita>
+    <Explained by: Social support>1,174</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,712</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,523</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,124</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,140</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>49</RANK>
+    <Country>El Salvador</Country>
+    <Happiness score>6,120</Happiness score>
+    <Whisker-high>6,250</Whisker-high>
+    <Whisker-low>5,990</Whisker-low>
+    <Dystopia (1.83) + residual>2,514</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,265</Explained by: GDP per capita>
+    <Explained by: Social support>0,768</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,607</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,666</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,089</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,212</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>50</RANK>
+    <Country>Kuwait*</Country>
+    <Happiness score>6,106</Happiness score>
+    <Whisker-high>6,235</Whisker-high>
+    <Whisker-low>5,977</Whisker-low>
+    <Dystopia (1.83) + residual>1,621</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,904</Explained by: GDP per capita>
+    <Explained by: Social support>0,983</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,747</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,617</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,087</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,147</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>51</RANK>
+    <Country>Hungary</Country>
+    <Happiness score>6,086</Happiness score>
+    <Whisker-high>6,187</Whisker-high>
+    <Whisker-low>5,985</Whisker-low>
+    <Dystopia (1.83) + residual>1,812</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,748</Explained by: GDP per capita>
+    <Explained by: Social support>1,233</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,668</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,485</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,078</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,064</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>52</RANK>
+    <Country>Mauritius</Country>
+    <Happiness score>6,071</Happiness score>
+    <Whisker-high>6,184</Whisker-high>
+    <Whisker-low>5,958</Whisker-low>
+    <Dystopia (1.83) + residual>1,969</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,591</Explained by: GDP per capita>
+    <Explained by: Social support>1,116</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,568</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,589</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,131</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,107</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>53</RANK>
+    <Country>Uzbekistan</Country>
+    <Happiness score>6,063</Happiness score>
+    <Whisker-high>6,178</Whisker-high>
+    <Whisker-low>5,948</Whisker-low>
+    <Dystopia (1.83) + residual>1,913</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,219</Explained by: GDP per capita>
+    <Explained by: Social support>1,092</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,600</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,716</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,283</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,240</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>54</RANK>
+    <Country>Japan</Country>
+    <Happiness score>6,039</Happiness score>
+    <Whisker-high>6,119</Whisker-high>
+    <Whisker-low>5,959</Whisker-low>
+    <Dystopia (1.83) + residual>1,487</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,835</Explained by: GDP per capita>
+    <Explained by: Social support>1,089</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,866</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,537</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,007</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,218</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>55</RANK>
+    <Country>Honduras</Country>
+    <Happiness score>6,022</Happiness score>
+    <Whisker-high>6,189</Whisker-high>
+    <Whisker-low>5,855</Whisker-low>
+    <Dystopia (1.83) + residual>2,611</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,111</Explained by: GDP per capita>
+    <Explained by: Social support>0,885</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,555</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,582</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,202</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,076</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>56</RANK>
+    <Country>Portugal</Country>
+    <Happiness score>6,016</Happiness score>
+    <Whisker-high>6,122</Whisker-high>
+    <Whisker-low>5,911</Whisker-low>
+    <Dystopia (1.83) + residual>1,691</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,760</Explained by: GDP per capita>
+    <Explained by: Social support>1,078</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,777</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,655</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,016</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,039</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>57</RANK>
+    <Country>Argentina</Country>
+    <Happiness score>5,967</Happiness score>
+    <Whisker-high>6,090</Whisker-high>
+    <Whisker-low>5,844</Whisker-low>
+    <Dystopia (1.83) + residual>1,891</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,592</Explained by: GDP per capita>
+    <Explained by: Social support>1,102</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,662</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,555</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,081</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,085</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>58</RANK>
+    <Country>Greece</Country>
+    <Happiness score>5,948</Happiness score>
+    <Whisker-high>6,043</Whisker-high>
+    <Whisker-low>5,853</Whisker-low>
+    <Dystopia (1.83) + residual>2,119</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,703</Explained by: GDP per capita>
+    <Explained by: Social support>0,980</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,774</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,249</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,015</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,108</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>59</RANK>
+    <Country>South Korea</Country>
+    <Happiness score>5,935</Happiness score>
+    <Whisker-high>6,021</Whisker-high>
+    <Whisker-low>5,849</Whisker-low>
+    <Dystopia (1.83) + residual>1,656</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,851</Explained by: GDP per capita>
+    <Explained by: Social support>0,886</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,841</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,414</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,111</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,176</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>60</RANK>
+    <Country>Philippines</Country>
+    <Happiness score>5,904</Happiness score>
+    <Whisker-high>6,007</Whisker-high>
+    <Whisker-low>5,800</Whisker-low>
+    <Dystopia (1.83) + residual>2,283</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,268</Explained by: GDP per capita>
+    <Explained by: Social support>0,912</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,514</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,678</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,107</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,142</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>61</RANK>
+    <Country>Thailand</Country>
+    <Happiness score>5,891</Happiness score>
+    <Whisker-high>5,994</Whisker-high>
+    <Whisker-low>5,788</Whisker-low>
+    <Dystopia (1.83) + residual>1,600</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,535</Explained by: GDP per capita>
+    <Explained by: Social support>1,096</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,697</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,617</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,321</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,026</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>62</RANK>
+    <Country>Moldova</Country>
+    <Happiness score>5,857</Happiness score>
+    <Whisker-high>5,948</Whisker-high>
+    <Whisker-low>5,766</Whisker-low>
+    <Dystopia (1.83) + residual>2,142</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,417</Explained by: GDP per capita>
+    <Explained by: Social support>1,008</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,597</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,561</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,102</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,028</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>63</RANK>
+    <Country>Jamaica</Country>
+    <Happiness score>5,850</Happiness score>
+    <Whisker-high>6,023</Whisker-high>
+    <Whisker-low>5,676</Whisker-low>
+    <Dystopia (1.83) + residual>2,164</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,296</Explained by: GDP per capita>
+    <Explained by: Social support>1,045</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,646</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,567</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,080</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,053</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>64</RANK>
+    <Country>Kyrgyzstan</Country>
+    <Happiness score>5,828</Happiness score>
+    <Whisker-high>5,916</Whisker-high>
+    <Whisker-low>5,741</Whisker-low>
+    <Dystopia (1.83) + residual>2,087</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,069</Explained by: GDP per capita>
+    <Explained by: Social support>1,109</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,638</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,693</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,208</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,025</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>65</RANK>
+    <Country>Belarus*</Country>
+    <Happiness score>5,821</Happiness score>
+    <Whisker-high>5,950</Whisker-high>
+    <Whisker-low>5,693</Whisker-low>
+    <Dystopia (1.83) + residual>1,811</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,562</Explained by: GDP per capita>
+    <Explained by: Social support>1,157</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,629</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,342</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,040</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,282</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>66</RANK>
+    <Country>Colombia</Country>
+    <Happiness score>5,781</Happiness score>
+    <Whisker-high>5,903</Whisker-high>
+    <Whisker-low>5,659</Whisker-low>
+    <Dystopia (1.83) + residual>1,971</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,452</Explained by: GDP per capita>
+    <Explained by: Social support>0,929</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,720</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,545</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,087</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,077</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>67</RANK>
+    <Country>Bosnia and Herzegovina</Country>
+    <Happiness score>5,768</Happiness score>
+    <Whisker-high>5,877</Whisker-high>
+    <Whisker-low>5,659</Whisker-low>
+    <Dystopia (1.83) + residual>1,869</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,468</Explained by: GDP per capita>
+    <Explained by: Social support>1,068</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,665</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,448</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,244</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,006</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>68</RANK>
+    <Country>Mongolia</Country>
+    <Happiness score>5,761</Happiness score>
+    <Whisker-high>5,845</Whisker-high>
+    <Whisker-low>5,676</Whisker-low>
+    <Dystopia (1.83) + residual>1,999</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,393</Explained by: GDP per capita>
+    <Explained by: Social support>1,197</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,467</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,398</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,247</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,059</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>69</RANK>
+    <Country>Dominican Republic</Country>
+    <Happiness score>5,737</Happiness score>
+    <Whisker-high>5,873</Whisker-high>
+    <Whisker-low>5,601</Whisker-low>
+    <Dystopia (1.83) + residual>1,751</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,538</Explained by: GDP per capita>
+    <Explained by: Social support>1,003</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,577</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,606</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,084</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,179</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>70</RANK>
+    <Country>Malaysia</Country>
+    <Happiness score>5,711</Happiness score>
+    <Whisker-high>5,845</Whisker-high>
+    <Whisker-low>5,578</Whisker-low>
+    <Dystopia (1.83) + residual>1,471</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,689</Explained by: GDP per capita>
+    <Explained by: Social support>0,938</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,620</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,654</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,213</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,126</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>71</RANK>
+    <Country>Bolivia</Country>
+    <Happiness score>5,600</Happiness score>
+    <Whisker-high>5,709</Whisker-high>
+    <Whisker-low>5,491</Whisker-low>
+    <Dystopia (1.83) + residual>2,107</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,256</Explained by: GDP per capita>
+    <Explained by: Social support>0,880</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,555</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,627</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,112</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,064</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>72</RANK>
+    <Country>China</Country>
+    <Happiness score>5,585</Happiness score>
+    <Whisker-high>5,650</Whisker-high>
+    <Whisker-low>5,520</Whisker-low>
+    <Dystopia (1.83) + residual>1,516</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,508</Explained by: GDP per capita>
+    <Explained by: Social support>0,958</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,705</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,656</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,099</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,142</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>73</RANK>
+    <Country>Paraguay</Country>
+    <Happiness score>5,578</Happiness score>
+    <Whisker-high>5,689</Whisker-high>
+    <Whisker-low>5,467</Whisker-low>
+    <Dystopia (1.83) + residual>1,555</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,409</Explained by: GDP per capita>
+    <Explained by: Social support>1,130</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,624</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,629</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,171</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,059</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>74</RANK>
+    <Country>Peru</Country>
+    <Happiness score>5,559</Happiness score>
+    <Whisker-high>5,679</Whisker-high>
+    <Whisker-low>5,439</Whisker-low>
+    <Dystopia (1.83) + residual>1,890</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,397</Explained by: GDP per capita>
+    <Explained by: Social support>0,865</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,735</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,545</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,090</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,037</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>75</RANK>
+    <Country>Montenegro</Country>
+    <Happiness score>5,547</Happiness score>
+    <Whisker-high>5,681</Whisker-high>
+    <Whisker-low>5,413</Whisker-low>
+    <Dystopia (1.83) + residual>1,619</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,573</Explained by: GDP per capita>
+    <Explained by: Social support>1,023</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,659</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,460</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,135</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,077</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>76</RANK>
+    <Country>Ecuador</Country>
+    <Happiness score>5,533</Happiness score>
+    <Whisker-high>5,653</Whisker-high>
+    <Whisker-low>5,414</Whisker-low>
+    <Dystopia (1.83) + residual>1,866</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,352</Explained by: GDP per capita>
+    <Explained by: Social support>0,879</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,708</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,565</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,080</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,083</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>77</RANK>
+    <Country>Vietnam</Country>
+    <Happiness score>5,485</Happiness score>
+    <Whisker-high>5,570</Whisker-high>
+    <Whisker-low>5,400</Whisker-low>
+    <Dystopia (1.83) + residual>1,735</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,252</Explained by: GDP per capita>
+    <Explained by: Social support>0,932</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,611</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,707</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,143</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,105</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>78</RANK>
+    <Country>Turkmenistan*</Country>
+    <Happiness score>5,474</Happiness score>
+    <Whisker-high>5,578</Whisker-high>
+    <Whisker-low>5,371</Whisker-low>
+    <Dystopia (1.83) + residual>1,160</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,484</Explained by: GDP per capita>
+    <Explained by: Social support>1,319</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,516</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,649</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,314</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,032</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>79</RANK>
+    <Country>North Cyprus*</Country>
+    <Happiness score>5,467</Happiness score>
+    <Whisker-high>5,609</Whisker-high>
+    <Whisker-low>5,325</Whisker-low>
+    <Dystopia (1.83) + residual>1,078</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,815</Explained by: GDP per capita>
+    <Explained by: Social support>0,888</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,819</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,523</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,130</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,213</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>80</RANK>
+    <Country>Russia</Country>
+    <Happiness score>5,459</Happiness score>
+    <Whisker-high>5,525</Whisker-high>
+    <Whisker-low>5,392</Whisker-low>
+    <Dystopia (1.83) + residual>1,494</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,685</Explained by: GDP per capita>
+    <Explained by: Social support>1,095</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,586</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,401</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,117</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,080</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>81</RANK>
+    <Country>Hong Kong S.A.R. of China</Country>
+    <Happiness score>5,425</Happiness score>
+    <Whisker-high>5,501</Whisker-high>
+    <Whisker-low>5,348</Whisker-low>
+    <Dystopia (1.83) + residual>0,642</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,957</Explained by: GDP per capita>
+    <Explained by: Social support>0,954</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,942</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,400</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,147</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,383</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>82</RANK>
+    <Country>Armenia</Country>
+    <Happiness score>5,399</Happiness score>
+    <Whisker-high>5,519</Whisker-high>
+    <Whisker-low>5,278</Whisker-low>
+    <Dystopia (1.83) + residual>1,654</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,434</Explained by: GDP per capita>
+    <Explained by: Social support>0,820</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,668</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,558</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,054</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,210</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>83</RANK>
+    <Country>Tajikistan</Country>
+    <Happiness score>5,377</Happiness score>
+    <Whisker-high>5,468</Whisker-high>
+    <Whisker-low>5,287</Whisker-low>
+    <Dystopia (1.83) + residual>1,895</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,966</Explained by: GDP per capita>
+    <Explained by: Social support>1,005</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,518</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,572</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,118</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,304</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>84</RANK>
+    <Country>Nepal</Country>
+    <Happiness score>5,377</Happiness score>
+    <Whisker-high>5,502</Whisker-high>
+    <Whisker-low>5,251</Whisker-low>
+    <Dystopia (1.83) + residual>2,224</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,984</Explained by: GDP per capita>
+    <Explained by: Social support>0,784</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,499</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,519</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,237</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,130</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>85</RANK>
+    <Country>Bulgaria</Country>
+    <Happiness score>5,371</Happiness score>
+    <Whisker-high>5,485</Whisker-high>
+    <Whisker-low>5,257</Whisker-low>
+    <Dystopia (1.83) + residual>1,235</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,625</Explained by: GDP per capita>
+    <Explained by: Social support>1,163</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,640</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,563</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,123</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,021</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>86</RANK>
+    <Country>Libya*</Country>
+    <Happiness score>5,330</Happiness score>
+    <Whisker-high>5,543</Whisker-high>
+    <Whisker-low>5,118</Whisker-low>
+    <Dystopia (1.83) + residual>1,544</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,476</Explained by: GDP per capita>
+    <Explained by: Social support>0,943</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,606</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,477</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,106</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,179</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>87</RANK>
+    <Country>Indonesia</Country>
+    <Happiness score>5,240</Happiness score>
+    <Whisker-high>5,341</Whisker-high>
+    <Whisker-low>5,139</Whisker-low>
+    <Dystopia (1.83) + residual>1,300</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,382</Explained by: GDP per capita>
+    <Explained by: Social support>0,883</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,539</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,620</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,468</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,047</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>88</RANK>
+    <Country>Ivory Coast</Country>
+    <Happiness score>5,235</Happiness score>
+    <Whisker-high>5,384</Whisker-high>
+    <Whisker-low>5,085</Whisker-low>
+    <Dystopia (1.83) + residual>2,652</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,094</Explained by: GDP per capita>
+    <Explained by: Social support>0,442</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,322</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,451</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,149</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,124</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>89</RANK>
+    <Country>North Macedonia</Country>
+    <Happiness score>5,199</Happiness score>
+    <Whisker-high>5,303</Whisker-high>
+    <Whisker-low>5,095</Whisker-low>
+    <Dystopia (1.83) + residual>1,461</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,505</Explained by: GDP per capita>
+    <Explained by: Social support>0,863</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,637</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,488</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,215</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,031</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>90</RANK>
+    <Country>Albania</Country>
+    <Happiness score>5,199</Happiness score>
+    <Whisker-high>5,321</Whisker-high>
+    <Whisker-low>5,076</Whisker-low>
+    <Dystopia (1.83) + residual>1,718</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,439</Explained by: GDP per capita>
+    <Explained by: Social support>0,646</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,719</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,511</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,138</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,028</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>91</RANK>
+    <Country>South Africa</Country>
+    <Happiness score>5,194</Happiness score>
+    <Whisker-high>5,315</Whisker-high>
+    <Whisker-low>5,073</Whisker-low>
+    <Dystopia (1.83) + residual>1,742</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,425</Explained by: GDP per capita>
+    <Explained by: Social support>1,088</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,361</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,442</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,089</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,046</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>92</RANK>
+    <Country>Azerbaijan*</Country>
+    <Happiness score>5,173</Happiness score>
+    <Whisker-high>5,265</Whisker-high>
+    <Whisker-low>5,082</Whisker-low>
+    <Dystopia (1.83) + residual>1,098</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,458</Explained by: GDP per capita>
+    <Explained by: Social support>1,093</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,560</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,601</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,023</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,341</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>93</RANK>
+    <Country>Gambia*</Country>
+    <Happiness score>5,164</Happiness score>
+    <Whisker-high>5,409</Whisker-high>
+    <Whisker-low>4,918</Whisker-low>
+    <Dystopia (1.83) + residual>2,531</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,785</Explained by: GDP per capita>
+    <Explained by: Social support>0,621</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,369</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,367</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,388</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,103</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>94</RANK>
+    <Country>Bangladesh</Country>
+    <Happiness score>5,155</Happiness score>
+    <Whisker-high>5,262</Whisker-high>
+    <Whisker-low>5,049</Whisker-low>
+    <Dystopia (1.83) + residual>1,967</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,060</Explained by: GDP per capita>
+    <Explained by: Social support>0,614</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,581</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,622</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,125</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,187</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>95</RANK>
+    <Country>Laos</Country>
+    <Happiness score>5,140</Happiness score>
+    <Whisker-high>5,263</Whisker-high>
+    <Whisker-low>5,018</Whisker-low>
+    <Dystopia (1.83) + residual>1,709</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,239</Explained by: GDP per capita>
+    <Explained by: Social support>0,654</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,479</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,679</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,197</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,184</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>96</RANK>
+    <Country>Algeria</Country>
+    <Happiness score>5,122</Happiness score>
+    <Whisker-high>5,215</Whisker-high>
+    <Whisker-low>5,030</Whisker-low>
+    <Dystopia (1.83) + residual>1,744</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,363</Explained by: GDP per capita>
+    <Explained by: Social support>0,970</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,643</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,146</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,106</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,150</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>97</RANK>
+    <Country>Liberia*</Country>
+    <Happiness score>5,122</Happiness score>
+    <Whisker-high>5,428</Whisker-high>
+    <Whisker-low>4,815</Whisker-low>
+    <Dystopia (1.83) + residual>2,844</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,636</Explained by: GDP per capita>
+    <Explained by: Social support>0,670</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,309</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,405</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,178</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,080</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>98</RANK>
+    <Country>Ukraine</Country>
+    <Happiness score>5,084</Happiness score>
+    <Whisker-high>5,190</Whisker-high>
+    <Whisker-low>4,978</Whisker-low>
+    <Dystopia (1.83) + residual>1,331</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,411</Explained by: GDP per capita>
+    <Explained by: Social support>1,081</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,583</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,473</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,188</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,017</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>99</RANK>
+    <Country>Congo</Country>
+    <Happiness score>5,075</Happiness score>
+    <Whisker-high>5,235</Whisker-high>
+    <Whisker-low>4,915</Whisker-low>
+    <Dystopia (1.83) + residual>2,658</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,950</Explained by: GDP per capita>
+    <Explained by: Social support>0,405</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,355</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,431</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,130</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,146</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>100</RANK>
+    <Country>Morocco</Country>
+    <Happiness score>5,060</Happiness score>
+    <Whisker-high>5,181</Whisker-high>
+    <Whisker-low>4,938</Whisker-low>
+    <Dystopia (1.83) + residual>2,405</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,208</Explained by: GDP per capita>
+    <Explained by: Social support>0,268</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,565</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,492</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,020</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,102</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>101</RANK>
+    <Country>Mozambique</Country>
+    <Happiness score>5,048</Happiness score>
+    <Whisker-high>5,273</Whisker-high>
+    <Whisker-low>4,823</Whisker-low>
+    <Dystopia (1.83) + residual>2,641</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,578</Explained by: GDP per capita>
+    <Explained by: Social support>0,660</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,191</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,593</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,185</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,200</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>102</RANK>
+    <Country>Cameroon</Country>
+    <Happiness score>5,048</Happiness score>
+    <Whisker-high>5,188</Whisker-high>
+    <Whisker-low>4,907</Whisker-low>
+    <Dystopia (1.83) + residual>2,469</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,968</Explained by: GDP per capita>
+    <Explained by: Social support>0,672</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,317</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,397</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,152</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,074</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>103</RANK>
+    <Country>Senegal</Country>
+    <Happiness score>5,046</Happiness score>
+    <Whisker-high>5,171</Whisker-high>
+    <Whisker-low>4,921</Whisker-low>
+    <Dystopia (1.83) + residual>2,419</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,933</Explained by: GDP per capita>
+    <Explained by: Social support>0,530</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,447</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,494</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,143</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,081</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>104</RANK>
+    <Country>Niger*</Country>
+    <Happiness score>5,003</Happiness score>
+    <Whisker-high>5,247</Whisker-high>
+    <Whisker-low>4,760</Whisker-low>
+    <Dystopia (1.83) + residual>2,667</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,570</Explained by: GDP per capita>
+    <Explained by: Social support>0,560</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,326</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,571</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,165</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,145</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>105</RANK>
+    <Country>Georgia</Country>
+    <Happiness score>4,973</Happiness score>
+    <Whisker-high>5,079</Whisker-high>
+    <Whisker-low>4,867</Whisker-low>
+    <Dystopia (1.83) + residual>1,583</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,467</Explained by: GDP per capita>
+    <Explained by: Social support>0,612</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,595</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,508</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,000</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,208</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>106</RANK>
+    <Country>Gabon</Country>
+    <Happiness score>4,958</Happiness score>
+    <Whisker-high>5,091</Whisker-high>
+    <Whisker-low>4,826</Whisker-low>
+    <Dystopia (1.83) + residual>1,892</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,459</Explained by: GDP per capita>
+    <Explained by: Social support>0,738</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,396</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,343</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,032</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,099</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>107</RANK>
+    <Country>Iraq</Country>
+    <Happiness score>4,941</Happiness score>
+    <Whisker-high>5,099</Whisker-high>
+    <Whisker-low>4,783</Whisker-low>
+    <Dystopia (1.83) + residual>1,894</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,289</Explained by: GDP per capita>
+    <Explained by: Social support>0,682</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,554</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,328</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,147</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,046</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>108</RANK>
+    <Country>Venezuela</Country>
+    <Happiness score>4,925</Happiness score>
+    <Whisker-high>5,051</Whisker-high>
+    <Whisker-low>4,800</Whisker-low>
+    <Dystopia (1.83) + residual>2,790</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,000</Explained by: GDP per capita>
+    <Explained by: Social support>0,968</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,578</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,283</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,225</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,082</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>109</RANK>
+    <Country>Guinea</Country>
+    <Happiness score>4,891</Happiness score>
+    <Whisker-high>5,028</Whisker-high>
+    <Whisker-low>4,753</Whisker-low>
+    <Dystopia (1.83) + residual>2,538</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,848</Explained by: GDP per capita>
+    <Explained by: Social support>0,566</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,275</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,334</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,214</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,116</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>110</RANK>
+    <Country>Iran</Country>
+    <Happiness score>4,888</Happiness score>
+    <Whisker-high>4,995</Whisker-high>
+    <Whisker-low>4,780</Whisker-low>
+    <Dystopia (1.83) + residual>1,427</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,410</Explained by: GDP per capita>
+    <Explained by: Social support>0,741</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,642</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,281</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,241</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,146</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>111</RANK>
+    <Country>Ghana</Country>
+    <Happiness score>4,872</Happiness score>
+    <Whisker-high>4,999</Whisker-high>
+    <Whisker-low>4,745</Whisker-low>
+    <Dystopia (1.83) + residual>1,972</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,112</Explained by: GDP per capita>
+    <Explained by: Social support>0,595</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,409</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,500</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,230</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,056</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>112</RANK>
+    <Country>Turkey</Country>
+    <Happiness score>4,744</Happiness score>
+    <Whisker-high>4,845</Whisker-high>
+    <Whisker-low>4,644</Whisker-low>
+    <Dystopia (1.83) + residual>1,059</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,707</Explained by: GDP per capita>
+    <Explained by: Social support>0,865</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,702</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,209</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,087</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,115</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>113</RANK>
+    <Country>Burkina Faso</Country>
+    <Happiness score>4,670</Happiness score>
+    <Whisker-high>4,814</Whisker-high>
+    <Whisker-low>4,527</Whisker-low>
+    <Dystopia (1.83) + residual>2,313</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,779</Explained by: GDP per capita>
+    <Explained by: Social support>0,565</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,320</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,382</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,186</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,126</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>114</RANK>
+    <Country>Cambodia</Country>
+    <Happiness score>4,640</Happiness score>
+    <Whisker-high>4,765</Whisker-high>
+    <Whisker-low>4,516</Whisker-low>
+    <Dystopia (1.83) + residual>1,410</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,019</Explained by: GDP per capita>
+    <Explained by: Social support>0,732</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,505</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,740</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,166</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,068</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>115</RANK>
+    <Country>Benin</Country>
+    <Happiness score>4,623</Happiness score>
+    <Whisker-high>4,754</Whisker-high>
+    <Whisker-low>4,492</Whisker-low>
+    <Dystopia (1.83) + residual>2,458</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,932</Explained by: GDP per capita>
+    <Explained by: Social support>0,064</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,335</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,479</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,127</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,230</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>116</RANK>
+    <Country>Comoros*</Country>
+    <Happiness score>4,609</Happiness score>
+    <Whisker-high>4,849</Whisker-high>
+    <Whisker-low>4,368</Whisker-low>
+    <Dystopia (1.83) + residual>2,304</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,899</Explained by: GDP per capita>
+    <Explained by: Social support>0,476</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,424</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,185</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,195</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,125</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>117</RANK>
+    <Country>Uganda</Country>
+    <Happiness score>4,603</Happiness score>
+    <Whisker-high>4,747</Whisker-high>
+    <Whisker-low>4,459</Whisker-low>
+    <Dystopia (1.83) + residual>1,842</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,777</Explained by: GDP per capita>
+    <Explained by: Social support>0,875</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,418</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,402</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,222</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,066</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>118</RANK>
+    <Country>Nigeria</Country>
+    <Happiness score>4,552</Happiness score>
+    <Whisker-high>4,651</Whisker-high>
+    <Whisker-low>4,453</Whisker-low>
+    <Dystopia (1.83) + residual>1,784</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,079</Explained by: GDP per capita>
+    <Explained by: Social support>0,732</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,300</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,444</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,175</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,038</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>119</RANK>
+    <Country>Kenya</Country>
+    <Happiness score>4,543</Happiness score>
+    <Whisker-high>4,683</Whisker-high>
+    <Whisker-low>4,403</Whisker-low>
+    <Dystopia (1.83) + residual>1,661</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,032</Explained by: GDP per capita>
+    <Explained by: Social support>0,605</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,401</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,440</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,322</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,082</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>120</RANK>
+    <Country>Tunisia</Country>
+    <Happiness score>4,516</Happiness score>
+    <Whisker-high>4,629</Whisker-high>
+    <Whisker-low>4,403</Whisker-low>
+    <Dystopia (1.83) + residual>1,540</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,350</Explained by: GDP per capita>
+    <Explained by: Social support>0,596</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,656</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,316</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,029</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,029</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>121</RANK>
+    <Country>Pakistan</Country>
+    <Happiness score>4,516</Happiness score>
+    <Whisker-high>4,634</Whisker-high>
+    <Whisker-low>4,397</Whisker-low>
+    <Dystopia (1.83) + residual>1,940</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,049</Explained by: GDP per capita>
+    <Explained by: Social support>0,413</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,374</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,448</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,181</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,112</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>122</RANK>
+    <Country>Palestinian Territories*</Country>
+    <Happiness score>4,483</Happiness score>
+    <Whisker-high>4,665</Whisker-high>
+    <Whisker-low>4,300</Whisker-low>
+    <Dystopia (1.83) + residual>1,368</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,148</Explained by: GDP per capita>
+    <Explained by: Social support>0,957</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,521</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,336</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,073</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,079</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>123</RANK>
+    <Country>Mali</Country>
+    <Happiness score>4,479</Happiness score>
+    <Whisker-high>4,611</Whisker-high>
+    <Whisker-low>4,347</Whisker-low>
+    <Dystopia (1.83) + residual>2,373</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,792</Explained by: GDP per capita>
+    <Explained by: Social support>0,483</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,311</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,350</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,128</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,042</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>124</RANK>
+    <Country>Namibia</Country>
+    <Happiness score>4,459</Happiness score>
+    <Whisker-high>4,593</Whisker-high>
+    <Whisker-low>4,326</Whisker-low>
+    <Dystopia (1.83) + residual>1,414</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,292</Explained by: GDP per capita>
+    <Explained by: Social support>0,877</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,354</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,384</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,067</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,071</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>125</RANK>
+    <Country>Eswatini, Kingdom of*</Country>
+    <Happiness score>4,396</Happiness score>
+    <Whisker-high>4,607</Whisker-high>
+    <Whisker-low>4,185</Whisker-low>
+    <Dystopia (1.83) + residual>1,688</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,274</Explained by: GDP per capita>
+    <Explained by: Social support>0,786</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,197</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,259</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,038</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,154</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>126</RANK>
+    <Country>Myanmar</Country>
+    <Happiness score>4,394</Happiness score>
+    <Whisker-high>4,511</Whisker-high>
+    <Whisker-low>4,277</Whisker-low>
+    <Dystopia (1.83) + residual>0,877</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,038</Explained by: GDP per capita>
+    <Explained by: Social support>0,829</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,491</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,513</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,452</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,194</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>127</RANK>
+    <Country>Sri Lanka</Country>
+    <Happiness score>4,362</Happiness score>
+    <Whisker-high>4,487</Whisker-high>
+    <Whisker-low>4,237</Whisker-low>
+    <Dystopia (1.83) + residual>0,595</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,415</Explained by: GDP per capita>
+    <Explained by: Social support>0,934</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,660</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,529</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,150</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,079</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>128</RANK>
+    <Country>Madagascar*</Country>
+    <Happiness score>4,339</Happiness score>
+    <Whisker-high>4,530</Whisker-high>
+    <Whisker-low>4,148</Whisker-low>
+    <Dystopia (1.83) + residual>2,148</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,670</Explained by: GDP per capita>
+    <Explained by: Social support>0,645</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,378</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,202</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,143</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,154</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>129</RANK>
+    <Country>Egypt</Country>
+    <Happiness score>4,288</Happiness score>
+    <Whisker-high>4,377</Whisker-high>
+    <Whisker-low>4,198</Whisker-low>
+    <Dystopia (1.83) + residual>0,856</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,388</Explained by: GDP per capita>
+    <Explained by: Social support>0,732</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,548</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,469</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,041</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,254</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>130</RANK>
+    <Country>Chad*</Country>
+    <Happiness score>4,251</Happiness score>
+    <Whisker-high>4,503</Whisker-high>
+    <Whisker-low>3,999</Whisker-low>
+    <Dystopia (1.83) + residual>2,419</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,662</Explained by: GDP per capita>
+    <Explained by: Social support>0,506</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,225</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,180</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,182</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,077</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>131</RANK>
+    <Country>Ethiopia</Country>
+    <Happiness score>4,241</Happiness score>
+    <Whisker-high>4,365</Whisker-high>
+    <Whisker-low>4,118</Whisker-low>
+    <Dystopia (1.83) + residual>1,375</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,788</Explained by: GDP per capita>
+    <Explained by: Social support>0,809</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,457</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,472</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,205</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,136</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>132</RANK>
+    <Country>Yemen*</Country>
+    <Happiness score>4,197</Happiness score>
+    <Whisker-high>4,384</Whisker-high>
+    <Whisker-low>4,010</Whisker-low>
+    <Dystopia (1.83) + residual>1,561</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,691</Explained by: GDP per capita>
+    <Explained by: Social support>1,043</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,384</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,330</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,090</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,098</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>133</RANK>
+    <Country>Mauritania*</Country>
+    <Happiness score>4,153</Happiness score>
+    <Whisker-high>4,356</Whisker-high>
+    <Whisker-low>3,950</Whisker-low>
+    <Dystopia (1.83) + residual>1,207</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,100</Explained by: GDP per capita>
+    <Explained by: Social support>0,865</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,450</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,304</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,088</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,138</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>134</RANK>
+    <Country>Jordan</Country>
+    <Happiness score>4,152</Happiness score>
+    <Whisker-high>4,276</Whisker-high>
+    <Whisker-low>4,029</Whisker-low>
+    <Dystopia (1.83) + residual>0,695</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,324</Explained by: GDP per capita>
+    <Explained by: Social support>0,724</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,675</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,476</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,058</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,200</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>135</RANK>
+    <Country>Togo</Country>
+    <Happiness score>4,112</Happiness score>
+    <Whisker-high>4,272</Whisker-high>
+    <Whisker-low>3,953</Whisker-low>
+    <Dystopia (1.83) + residual>2,061</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,771</Explained by: GDP per capita>
+    <Explained by: Social support>0,322</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,360</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,292</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,174</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,132</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>136</RANK>
+    <Country>India</Country>
+    <Happiness score>3,777</Happiness score>
+    <Whisker-high>3,828</Whisker-high>
+    <Whisker-low>3,726</Whisker-low>
+    <Dystopia (1.83) + residual>0,795</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,167</Explained by: GDP per capita>
+    <Explained by: Social support>0,376</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,471</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,647</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,198</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,123</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>137</RANK>
+    <Country>Zambia</Country>
+    <Happiness score>3,760</Happiness score>
+    <Whisker-high>3,902</Whisker-high>
+    <Whisker-low>3,618</Whisker-low>
+    <Dystopia (1.83) + residual>1,135</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,930</Explained by: GDP per capita>
+    <Explained by: Social support>0,577</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,306</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,525</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,203</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,083</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>138</RANK>
+    <Country>Malawi</Country>
+    <Happiness score>3,750</Happiness score>
+    <Whisker-high>3,941</Whisker-high>
+    <Whisker-low>3,560</Whisker-low>
+    <Dystopia (1.83) + residual>1,661</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,648</Explained by: GDP per capita>
+    <Explained by: Social support>0,279</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,388</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,477</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,140</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,157</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>139</RANK>
+    <Country>Tanzania</Country>
+    <Happiness score>3,702</Happiness score>
+    <Whisker-high>3,847</Whisker-high>
+    <Whisker-low>3,558</Whisker-low>
+    <Dystopia (1.83) + residual>0,735</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,848</Explained by: GDP per capita>
+    <Explained by: Social support>0,597</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,425</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,578</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,248</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,270</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>140</RANK>
+    <Country>Sierra Leone</Country>
+    <Happiness score>3,574</Happiness score>
+    <Whisker-high>3,732</Whisker-high>
+    <Whisker-low>3,416</Whisker-low>
+    <Dystopia (1.83) + residual>1,556</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,686</Explained by: GDP per capita>
+    <Explained by: Social support>0,416</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,273</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,387</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,202</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,055</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>141</RANK>
+    <Country>Lesotho*</Country>
+    <Happiness score>3,512</Happiness score>
+    <Whisker-high>3,748</Whisker-high>
+    <Whisker-low>3,276</Whisker-low>
+    <Dystopia (1.83) + residual>1,312</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,839</Explained by: GDP per capita>
+    <Explained by: Social support>0,848</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,000</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,419</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,076</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,018</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>142</RANK>
+    <Country>Botswana*</Country>
+    <Happiness score>3,471</Happiness score>
+    <Whisker-high>3,667</Whisker-high>
+    <Whisker-low>3,275</Whisker-low>
+    <Dystopia (1.83) + residual>0,187</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,503</Explained by: GDP per capita>
+    <Explained by: Social support>0,815</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,280</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,571</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,012</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,102</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>143</RANK>
+    <Country>Rwanda*</Country>
+    <Happiness score>3,268</Happiness score>
+    <Whisker-high>3,462</Whisker-high>
+    <Whisker-low>3,074</Whisker-low>
+    <Dystopia (1.83) + residual>0,536</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,785</Explained by: GDP per capita>
+    <Explained by: Social support>0,133</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,462</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,621</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,187</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,544</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>144</RANK>
+    <Country>Zimbabwe</Country>
+    <Happiness score>2,995</Happiness score>
+    <Whisker-high>3,110</Whisker-high>
+    <Whisker-low>2,880</Whisker-low>
+    <Dystopia (1.83) + residual>0,548</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,947</Explained by: GDP per capita>
+    <Explained by: Social support>0,690</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,270</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,329</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,106</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,105</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>145</RANK>
+    <Country>Lebanon</Country>
+    <Happiness score>2,955</Happiness score>
+    <Whisker-high>3,049</Whisker-high>
+    <Whisker-low>2,862</Whisker-low>
+    <Dystopia (1.83) + residual>0,216</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>1,392</Explained by: GDP per capita>
+    <Explained by: Social support>0,498</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,631</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,103</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,082</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,034</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>146</RANK>
+    <Country>Afghanistan</Country>
+    <Happiness score>2,404</Happiness score>
+    <Whisker-high>2,469</Whisker-high>
+    <Whisker-low>2,339</Whisker-low>
+    <Dystopia (1.83) + residual>1,263</Dystopia (1.83) + residual>
+    <Explained by: GDP per capita>0,758</Explained by: GDP per capita>
+    <Explained by: Social support>0,000</Explained by: Social support>
+    <Explained by: Healthy life expectancy>0,289</Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices>0,000</Explained by: Freedom to make life choices>
+    <Explained by: Generosity>0,089</Explained by: Generosity>
+    <Explained by: Perceptions of corruption>0,005</Explained by: Perceptions of corruption>
+  </row>
+  <row>
+    <RANK>147</RANK>
+    <Country>xx</Country>
+    <Happiness score></Happiness score>
+    <Whisker-high></Whisker-high>
+    <Whisker-low></Whisker-low>
+    <Dystopia (1.83) + residual></Dystopia (1.83) + residual>
+    <Explained by: GDP per capita></Explained by: GDP per capita>
+    <Explained by: Social support></Explained by: Social support>
+    <Explained by: Healthy life expectancy></Explained by: Healthy life expectancy>
+    <Explained by: Freedom to make life choices></Explained by: Freedom to make life choices>
+    <Explained by: Generosity></Explained by: Generosity>
+    <Explained by: Perceptions of corruption></Explained by: Perceptions of corruption>
+  </row>
+</root>

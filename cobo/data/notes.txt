@@ -1,0 +1,70 @@
+Team Insomniac Raccoons :: Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+LAB08 -- America's Next Top Data Scientist
+2022-04-06w
+time spent: 1.2 hours
+
+
+DISCO:
+* Running "javac -classpath .:../sinbad.jar -d . Welcome01.java" and "java -classpath .:../sinbad.jar Welcome01"
+  in GitBash instead of the Terminal allowed us to successfully compile and run our code.
+* sinbad.jar allows us to use data from live data services in our code.
+* We need to import core.data.* to import the Sinbad library.
+* connect() allows us to connect to the URL of the data service.
+* load() downloads the data provided by the URL.
+* You can view the page source to see where and how the program was fetching its data.
+
+QCC:
+* What are some real world applications that utilize Sinbad?
+
+
+Insomniac Raccoons's CSV FLOW:
+<insert your description of your tools and workflow in creating, editing CSV files>
+
+
+TRUBZ:
+* In Activity 3, we initially had trouble compiling Welcome01, Welcome02_Object, and Welcome03_List.
+* We checked the README and used the given commands but it did not work.
+* Then, we checked Piazza and found that many others were having this issue as well.
+* We noticed a comment from TNZ that the commands worked when SSHing, so we decided to attempt compiling our code on GitBash
+  using the same commands and our code ended up compiling and successfully running.
+
+
+ACTIVITY 1:
+1. Discord, Google Classroom, Piazza
+2. Piazza and Classroom collects your name, date of birth, mailing address. Discord collects our IP address, operating system information, browser information.
+3. A delimited file is a sequential file with column delimiters. Each delimited file is a stream of records, which consists of fields that are ordered by column. Each record contains fields for one row. Within each row, individual fields are separated by column delimiters.
+4. Look at the first cell in the column.
+5. Two areas of interest are science and happiness.
+6. What category of happiness from the world happiness report are we the most successful in worldwide? Specializing in what science would open the most career paths?
+7. The World Happiness Reports has a lot of numerical data to answer my questions. https://worldhappiness.report/archive/
+8. There are hundreds of records in the World Happiness Reports through the years. Larger data set means there is a higher chance of accuracy in answering the question at hand.
+9. Classroom collecting the user’s OS and browser information allows Google to optimize this platform for those specific systems which would benefit users and bring even more customers in.
+10. One way for websites to collect basic information is through the initial registration process, and another way is through cookies or third party scripts that collect information about a user’s OS and browser.
+11. Sometimes, there are situations where the benefit provided from the data collected is worth the risk to personal privacy because sometimes this data can help the provider optimize their product specifically for one user and therefore making the product better and more convenient for this user and get more functionality out of it.
+
+ACTIVITY 2:
+1. Cereal
+2. What gives you hope?
+    - Faiza: Fruit Loops, Fruity Pebbles, and Cinammon Toast Crunch
+    - Tasnim: Lucky Charms
+    - Diana: Frosted Flakes and Raisin Bran
+3. public class Cereal
+4. 15 instance variables
+5.  String: _name
+    char: _type
+    int: _calories, _protein, _fat, _sodium, _sugar, _potassium, _vitamins, _shelf
+    double: _fiber, _carbohydrates, _weight, _cups, _rating
+8. What is the most frequent calorie amount out of the different cereal brands?
+9. What is the mean rating of all of the cereal brands?
+10. We could implement a method that calculates and returns the mean of each category.
+
+ACTIVITY 3:
+1. Location is Atlanta, Hartsfield Jackson Atlanta International Airport GA. The temperature printed is 59.0F.
+2. Four Digit Code: KP69
+    The temperature at Lowell, ID is 40.0 F
+4. 48 stations
+5. Maybe just fetchList “<state>” + State. This would only compile a list of the stations in the specified state.
+6. NSTU is the Southernmost weather station.
+7. What is the northernmost Weather station?
+8. We would only have to change the operator from < to > in order to get the highest value of the Latitude coordinates.
