@@ -4,6 +4,15 @@
 // 2022-04-11
 // time spent: 0.5 hrs
 
+/*
+DISCO:
+- the difference between linked list and arraylist queues is that LL uses peek()
+and addLast() for peekFront whereas AL uses get() and add(), respectively.
+
+QCC:
+- which is faster? AL or LL?
+*/
+
 import java.util.LinkedList;
 
 public class LLQueue<QUASAR> implements Queue<QUASAR> {
@@ -39,5 +48,30 @@ public class LLQueue<QUASAR> implements Queue<QUASAR> {
       return list.peek();
     }
 
+    public String toString() {
+      String foo = "[";
+      if (!list.isEmpty()) {
+        for (int i = 0; i < list.size() - 1; i++) {
+          foo += list.get(i) + ", ";
+        }
+        foo += list.get(list.size() - 1);
+      }
+      foo += "]";
+      return foo;
+    }
 
+    public static void main(String[] args) {
+      LLQueue Leon = new LLQueue();
+      System.out.println("Is Leon empty? " + Leon.isEmpty());
+      Leon.enqueue(1);
+      Leon.enqueue(2);
+      Leon.enqueue(3);
+      System.out.println("Leon enqueued: " + Leon);
+      System.out.println("Is Leon empty? " + Leon.isEmpty());
+      Leon.dequeue();
+      Leon.dequeue();
+      Leon.dequeue();
+      System.out.println("Leon dequeued: " + Leon);
+      System.out.println("Is Leon empty? " + Leon.isEmpty());
+    }
 }
