@@ -1,0 +1,13 @@
+// Team Acid: Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
+// APCS pd08
+// HW90: Swabbing the Deque
+// 2022-04-12
+// time spent: 0.5 hrs
+
+/*
+DISCO:
+- all the methods we needed were found in the LList with the same method names we had.
+QCC:
+- what is advantage of limited capacity deque?
+
+*/
