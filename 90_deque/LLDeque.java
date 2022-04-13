@@ -1,8 +1,13 @@
 import java.util.LinkedList;
 
 public class LLDeque<QUASAR> implements Deque<QUASAR> {
-  private LinkedList<QUASAR> list = new LinkedList<QUASAR>();
+  private LinkedList<QUASAR> list;
 
+
+  public LLDeque(int _size)
+  {
+    list = new LinkedList<QUASAR>(_size);
+  }
 
   public void addLast(QUASAR x)
   {
@@ -34,6 +39,21 @@ public class LLDeque<QUASAR> implements Deque<QUASAR> {
     return list.peekLast();
   }
 
+  public boolean offer(QUASAR x)
+  {
+    return list.offer(x);
+  }
+
+  public QUASAR element()
+  {
+    return list.element();
+  }
+
+  public QUASAR poll()
+  {
+    return list.poll();
+  }
+
 
     //Stringification
     public String toString() {
@@ -49,7 +69,7 @@ public class LLDeque<QUASAR> implements Deque<QUASAR> {
     }
 
     public static void main(String[] args) {
-      LLDeque LL = new LLDeque();
+      LLDeque LL = new LLDeque(3);
       LL.addFirst(1);
       LL.addFirst(2);
       LL.addFirst(3);
