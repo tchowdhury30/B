@@ -1,7 +1,7 @@
 // Team Acid: Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
 // APCS pd08
-// HW90: Swabbing the Deque
-// 2022-04-12
+// HW90: Deque the Halls
+// 2022-04-13
 // time spent: 0.5 hrs
 
 /*
@@ -28,23 +28,16 @@ public interface Deque<QUASAR>
   public void addLast(QUASAR x);
 
   /*
-  Retrieves and removes the first element of this deque. This method differs
-  from pollFirst only in that it throws an exception if this deque is empty.
-  */
-  public QUASAR removeFirst();
-
-  /*
-  Retrieves, but does not remove, the head of the queue represented by this deque
-  (in other words, the first element of this deque). This method differs from
-  peek only in that it throws an exception if this deque is empty.
-  */
-  public QUASAR peekFirst();
-
-  /*
   Retrieves, but does not remove, the first element of this deque, or returns
   null if this deque is empty.
   */
   public void addFirst(QUASAR x);
+
+  /*
+  Retrieves and removes the first element of this deque. This method differs
+  from pollFirst only in that it throws an exception if this deque is empty.
+  */
+  public QUASAR removeFirst();
 
   /*
   Inserts the specified element at the front of this deque if it is possible to
@@ -53,6 +46,13 @@ public interface Deque<QUASAR>
   capacity-restricted deque, it is generally preferable to use method offerFirst(E).
   */
   public QUASAR removeLast();
+
+  /*
+  Retrieves, but does not remove, the head of the queue represented by this deque
+  (in other words, the first element of this deque). This method differs from
+  peek only in that it throws an exception if this deque is empty.
+  */
+  public QUASAR peekFirst();
 
   /*
   Retrieves, but does not remove, the last element of this deque, or returns
@@ -65,20 +65,40 @@ public interface Deque<QUASAR>
   (at the tail of this deque)
   Returns true if enough space to offer and false if not
   */
-  public boolean offer(QUASAR x);
+  public boolean offerLast(QUASAR x);
 
   /*
-  Retrieves, but does not remove, the head of the queue represented by this deque
-  (in other words, the first element of this deque). This method differs from
-  peek only in that it throws an exception if this deque is empty.
+  Inserts the specified element at the front of this list.
   */
-  public QUASAR element();
+  public boolean offerFirst(QUASAR x);
 
   /*
   Retrieves and removes the head of the queue represented by this deque (in
   other words, the first element of this deque), or returns null if this deque
   is empty.
   */
-  public QUASAR poll();
+  public QUASAR pollFirst();
+
+  /*
+  Retrieves and removes the last element of this list, or returns null if this
+  list is empty.
+  */
+  public QUASAR pollLast();
+
+  /*
+  Retrieves, but does not remove, the first element of this deque.
+  This method differs from peekFirst only in that it throws an exception if
+  this deque is empty.
+  */
+  public QUASAR getFirst();
+
+  /*
+  Retrieves, but does not remove, the last element of this deque.
+  This method differs from peekLast only in that it throws an exception if this deque is empty.
+  */
+  public QUASAR getLast();
+
+
+
 
 }//end interface Deque

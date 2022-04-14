@@ -2,12 +2,9 @@
 Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
 
 ### PLAN
-1. addLast(x)
-2. removeFirst()
-3. peekFirst()
-4. isEmpty()
-5. addFirst()
-6. removeLast()
-7. peekLast()
-
-We implemented methods 1 to 4 in a previous homework. Methods 5 to 7 are slight modifications of methods 1 to 3. 
+1. addLast(x) / addFirst() 
+2. removeFirst() / removeLast()
+3. peekFirst() / peekLast()
+4. offerLast() / offerFirst()
+5. pollFirst() / pollLast()
+6. getFirst() / getLast()
