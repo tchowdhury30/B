@@ -1,0 +1,65 @@
+Insomniac Raccoons :: Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd08
+L09 -- Some Folks Call It A Charades
+2022-04-27w
+time spent: 4 hours
+
+DISCOs:
+* We learned how to make a GUI in Java and about the various methods.
+
+QCCs:
+* What do the imports in CelebrityFrame.java and CelebrityPanel.java exactly import (eg: java.awt.CardLayout, javax.swing.JFrame)?
+* What are ActionListeners and ActionEvents?
+* How does the putConstraint() method work and what parameters does it take?
+* What do we have to create a superclass of for the Open-Ended Activity?
+
+Activity 1
+1. Classes used: CelebrityGame, Celebrity and subclasses, Game
+2. Instance variables: name, preferred gender, age range, profession,
+living status, guessed?
+3. Game methods: play, update score, take turn, reset game, show results
+4. update score, reset game, rest would be part of main method
+5. play method allows a player to do a turn (1 min) and count them; during every turn
+the player makes as many guesses as possible to get the correct celebrity given clues
+6. a student object does learn, study, test methods and can have instant variables like
+grade and GPA.
+7. The student object can also have school, mindset, schedule instant variables
+
+Activity 2
+1. Constructors set up the instance variables in a class
+2. The Constructor can be overloaded and take in parameters to further
+control the instance variables
+3. Celebrity class needs the instance variables of clue and name
+4. The Celebrity class methods are getClue, getAnswer, setClue, setAnswer
+7. public Celebrity() { _name = null; _clue = null; }
+  This sets all the instance variables to a default value of null when nothing is given
+
+Activity 3
+1. The chosen swing component is the JFrame class, which is basically the
+window that the player interacts with and it has all the other game components.
+Possible properties are scaling, size, and background.
+2. private ArrayList<Celebrity> celebGameList;
+3. Yes, it will match because instance variables are typically private
+12. CelebrityGame
+13. No knowledge
+
+Activity 4
+1. Class Name: Actor; Attributes: famous movies/tv shows, famous roles.
+17. It has the @Override marker.
+18. Use the super() method.
+19. extends
+20. It upcasts the subclass instance.
+
+Activity 5
+1. We chose to implement this program because we were in a building at that time and wanted to create our own house.
+2. We have a Building superclass which has the floor and people instance variables.
+   We then created a House subclass that is able to return the house number.
+3. We can design a School subclass as well. The School subclass would the number of classes and can return the school name.
+4. INSTANCE VARIABLES:
+      -   int   _floors
+      -   int   _people
+    METHODS:
+      +   int   getFloors()
+      +   int   getPeople()
+      +   int   getHouseNumber()
+5. Building block = new House(12, 1, "123");
