@@ -1,0 +1,12 @@
+// Team Acid: Yuki Feng, Tasnim Chowdhury, Faiyaz Rafee
+// APCS pd08
+// HW80 Generically Speaking
+// 2022-03-23
+// time spent: 0.5 hrs
+
+DISCO
+* Only classes can be used as types for T
+* T does not need to be specified
+
+QCC
+* What about lists using primitives as the type?
