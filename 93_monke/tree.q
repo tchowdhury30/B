@@ -26,7 +26,6 @@ DISCO
 
 QCC
 ------------------------------------------------
-* Why is a balanced tree allowed a difference of 1 in height between right and left subtrees?
 * Where did man come from?
 ================================================
 
@@ -52,7 +51,7 @@ Is a complete tree balanced?
 * Yes, because the heights of the left and right subtrees of any node in a complete tree differ by 1 or less, because every level is filled in, except possibly the last level.
 
 Is the Man Who Is Tall Happy?
-* Yes, because height is generally viewed as a positive in society, especially concerning males.
+* The Man Who Is Tall Is Happy. The second "Is" has a smaller depth, and we use that one.
 
 What must be true of perfect trees but not others?
 *  All levels must be filled out and it is a tree that is complete and balanced.
