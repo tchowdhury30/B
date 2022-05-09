@@ -1,0 +1,88 @@
+Insomniac Raccoons :: Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW94 -- reverse engineering
+2022-05-06f
+time spent: .5 hrs
+
+
+DISCO
+------------------------------------------------
+* The process of constructing a binary tree changes when given a certain
+combination of traversals
+================================================
+
+
+QCC
+------------------------------------------------
+* How do we talk about one to one in terms of binary twees?
+================================================
+
+
+HOW KEEN ARE YOUR POWERS OF OBSERVATION?
+------------------------------------------------
+Q: For a given binary tree, how many unique pre-order traversals are there?
+A: One
+
+Q: For a given binary tree, how many unique in-order traversals are there?
+A: One
+
+Q: For a given binary tree, how many unique post-order traversals are there?
+A: One
+
+Q: For a given traversal, how many unique trees could have produced it?
+A: Infinite
+
+Q: Given a pre-order traversal, what can you infer about its tree?
+A: First letter is the root node
+
+Q: Given a post-order traversal, what can you infer about its tree?
+A: The last letter is the root node
+
+Q: What does "1-to-1" mean?
+A: For every value there is only one output. There is only
+one node to process from a given node depending on the type of traversal.
+
+Q: What does "onto" mean?
+A: For every parent node, there is at least one child node. 
+
+================================================
+
+ALGO for DOM
+------------------------------------------------
+givens: PREODER + INORDER
+
+procedure:
+1. Root node is first letter of PREORDER and locate it in INORDER
+2. Split the left and right sections of the letter in INORDER and treat as left
+and right subtrees. 
+3. Write the root node and children and repeat steps 1 and 2 until the child node
+has a height of 0
+
+================================================
+
+ALGO for SWITCH
+------------------------------------------------
+givens: PREODER + POSTORDER
+
+procedure:
+1. Root node is the first letter of PREODER / last letter of POSTORDER. Cross out
+these letters.
+2. Check if the next element in PREORDER is the same letter as the last
+letter in POSTORDER. If not, there is a child of the previous node
+3. Write the root node and children and repeat steps 1 and 2 until the child node
+has a height of 0
+
+================================================
+
+ALGO for SUB
+------------------------------------------------
+givens: POSTORDER + INORDER
+
+procedure:
+1. Root node is last letter of POSTORDER and locate it in INORDER
+2. Split the left and right sections of the letter in INORDER and treat as left
+and right subtrees
+3. Write the root node and children and repeat steps 1 and 2 until the child node
+has a height of 0
+
+================================================
