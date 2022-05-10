@@ -1,3 +1,5 @@
+//import javax.swing.tree.TreeNode;
+
 /**
  * class BST
  * v1:partial
@@ -25,7 +27,7 @@ public class BST
   BST()
   {
     /*** YOUR IMPLEMENTATION HERE ***/
-    
+    _root = new TreeNode(0);
   }
 
 
@@ -36,12 +38,37 @@ public class BST
   public void insert( int newVal )
   {
     TreeNode newNode = new TreeNode( newVal );
-    /*** YOUR IMPLEMENTATION HERE ***/
+    insert(_root, newNode);
   }
+
   //recursive helper for insert(int)
+  /** 
+   * Check if stRoot has children:
+   *   If not then just add depending on value
+   *   If it does have, check the values of children and call insert on said child
+   * @param stRoot subtree node
+   * @param newNode what we're adding
+   */
   public void insert( TreeNode stRoot, TreeNode newNode )
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    // check whether the value would have been added to right or left 
+    //  -> this make you only focus on subtree child instead of both
+    if (stRoot.getValue() <= newNode.getValue() ) {
+        //check if it has a right child node
+        if (stRoot.getRight() == null) {
+            stRoot.setRight(newNode);
+            //System.out.println("RIGHTBORN" + newNode.getValue());
+        } else {
+            insert(stRoot.getRight(), newNode);
+        }
+    } else { //then its left child that we must focus on
+        if (stRoot.getLeft() == null) {
+            stRoot.setLeft(newNode);
+            //System.out.println("LEFTBORN" + newNode.getValue());
+        } else {
+            insert(stRoot.getLeft(), newNode);
+        }
+    }
   }//end insert()
 
 
@@ -58,29 +85,53 @@ public class BST
   {
     preOrderTrav( _root );
   }
+
+  /**
+   * process currNode, then just call this on both right and left children Nodes
+   * @param currNode
+   */
   public void preOrderTrav( TreeNode currNode )
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    System.out.print(currNode.getValue());
+    if (currNode.getLeft() != null) {
+        preOrderTrav(currNode.getLeft());
+    }
+    if (currNode.getRight() != null) {
+        preOrderTrav(currNode.getRight());
+    }
   }
 
   //recurse left, process root, recurse right
   public void inOrderTrav()
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    inOrderTrav(_root);
+    //System.out.println("FIN");
   }
   public void inOrderTrav( TreeNode currNode )
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    if (currNode.getLeft() != null) {
+        inOrderTrav(currNode.getLeft());
+    }
+    System.out.print(currNode.getValue());
+    if (currNode.getRight() != null) {
+        inOrderTrav(currNode.getRight());
+    }
   }
 
   //recurse left, recurse right, process root
   public void postOrderTrav()
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    postOrderTrav(_root);
   }
   public void postOrderTrav( TreeNode currNode )
   {
-    /*** YOUR IMPLEMENTATION HERE ***/
+    if (currNode.getLeft() != null) {
+        postOrderTrav(currNode.getLeft());
+    }
+    if (currNode.getRight() != null) {
+        postOrderTrav(currNode.getRight());
+    }
+    System.out.print(currNode.getValue());
   }
 
   //~~~~~~~~~~~~~^~~TRAVERSALS~~^~~~~~~~~~~~~~~~~~~~~~
@@ -90,10 +141,9 @@ public class BST
   //main method for testing
   public static void main( String[] args )
   {
-    /*~~~~~~~~~~~~move~me~down~~~~~~~~~~~~~~~~~~~~~~
-
+      
       BST arbol = new BST();
-
+      
       //PROTIP: sketch state of tree after each insertion
       //        ...BEFORE executing these.
       arbol.insert( 4 );
@@ -102,21 +152,22 @@ public class BST
       arbol.insert( 6 );
       arbol.insert( 1 );
       arbol.insert( 3 );
-
+      
       System.out.println( "\n-----------------------------");
       System.out.println( "pre-order traversal:" );
       arbol.preOrderTrav();
-
+      
       System.out.println( "\n-----------------------------");
       System.out.println( "in-order traversal:" );
       arbol.inOrderTrav();
-
+      
       System.out.println( "\n-----------------------------");
       System.out.println( "post-order traversal:" );
       arbol.postOrderTrav();
-
+      
       System.out.println( "\n-----------------------------");
+      /*~~~~~~~~~~~~move~me~down~~~~~~~~~~~~~~~~~~~~~~
       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-  }
-
+    }
+    
 }//end class

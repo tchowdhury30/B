@@ -1,0 +1,34 @@
+insomniac raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+apcs pd8
+hw95 -- Algorithm as Data Structure
+2022-05-09
+time spent: 1hr
+
+DISCOS
+- I wasted like 30 minutes trying to figure out what was wrong with my code bc it kept printing the pre order
+  for all three traversals. Turns out I recursively recalled preOrderTrav instead of in or post...
+- Making a tree and comparing what you get vs ur program def helps
+
+QCC
+- what if the value that you are adding is equal to the currnode's value?
+- what does stnode mean? I assume its the root of the subtree
+
+arbore arbol :
+        0
+         \
+          4
+         / \
+        2   5
+       / \   \
+      1   3   6
+
+PRE:  0421356
+IN:   0123456
+POST: 1326540
+
+L = levels d = depth h = height
+a perfect binary tree has L! nodes
+at each level, a perfect binary tree has 2^depth nodes
+height of a complete binary tree w/ n nodes is ceiling of ln(n) + 1???
+
+this math is probably and certainly wholly incorrect :/
