@@ -147,7 +147,7 @@ public class BST
     TreeNode search( int target )
     {
     	/*** YOUR IMPLEMENTATION HERE ***/
-	
+	return search (target, _root);
     }
 
     TreeNode search( int target, TreeNode currNode) 
