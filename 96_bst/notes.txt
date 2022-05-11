@@ -1,0 +1,12 @@
+Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW96 -- BSTs is the Perfect Place for Shade
+2022-05-10t
+time spent: 1 hr
+
+DISCO:
+* Writing helper methods was very helpful!
+* Always check if the current node is null as a base case.
+
+QCC:
+* How do we print out the search() method if it returns null because the target is not in the tree?

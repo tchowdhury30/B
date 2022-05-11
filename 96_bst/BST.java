@@ -27,7 +27,7 @@ public class BST
   BST()
   {
     /*** YOUR IMPLEMENTATION HERE ***/
-    _root = new TreeNode(0);
+    _root = null;
   }
 
 
@@ -35,41 +35,36 @@ public class BST
    * void insert( int )
    * Adds a new data element to tree.
    */
-  public void insert( int newVal )
-  {
-    TreeNode newNode = new TreeNode( newVal );
-    insert(_root, newNode);
-  }
+   public void insert( int newVal )
+   {
+     TreeNode newNode = new TreeNode( newVal );
 
-  //recursive helper for insert(int)
-  /** 
-   * Check if stRoot has children:
-   *   If not then just add depending on value
-   *   If it does have, check the values of children and call insert on said child
-   * @param stRoot subtree node
-   * @param newNode what we're adding
-   */
-  public void insert( TreeNode stRoot, TreeNode newNode )
-  {
-    // check whether the value would have been added to right or left 
-    //  -> this make you only focus on subtree child instead of both
-    if (stRoot.getValue() <= newNode.getValue() ) {
-        //check if it has a right child node
-        if (stRoot.getRight() == null) {
-            stRoot.setRight(newNode);
-            //System.out.println("RIGHTBORN" + newNode.getValue());
-        } else {
-            insert(stRoot.getRight(), newNode);
-        }
-    } else { //then its left child that we must focus on
-        if (stRoot.getLeft() == null) {
-            stRoot.setLeft(newNode);
-            //System.out.println("LEFTBORN" + newNode.getValue());
-        } else {
-            insert(stRoot.getLeft(), newNode);
-        }
-    }
-  }//end insert()
+     if ( _root == null ) {
+       _root = newNode;
+       return;
+     }
+     insert( _root, newNode );
+   }
+   //recursive helper for insert(int)
+   public void insert( TreeNode stRoot, TreeNode newNode )
+   {
+     if ( newNode.getValue() < stRoot.getValue() ) {
+       //if no left child, make newNode the left child
+       if ( stRoot.getLeft() == null )
+         stRoot.setLeft( newNode );
+       else //recurse down left subtree
+         insert( stRoot.getLeft(), newNode );
+       return;
+     }
+     else { // new val >= curr, so look down right subtree
+       //if no right child, make newNode the right child
+       if ( stRoot.getRight() == null )
+         stRoot.setRight( newNode );
+       else //recurse down right subtree
+         insert( stRoot.getRight(), newNode );
+       return;
+     }
+   }//end insert()
 
 
 
@@ -145,25 +140,25 @@ public class BST
      * or null if target not found
      *****************************************************/
     TreeNode search( int target )
-    {
-    	/*** YOUR IMPLEMENTATION HERE ***/
-	return search (target, _root);
-    }
+      {
+      	/*** YOUR IMPLEMENTATION HERE ***/
+        return search (target, _root);
+      }
 
-    TreeNode search( int target, TreeNode currNode) 
+    TreeNode search( int target, TreeNode currNode)
     {
-	if (currNode == null) {
-		return null;
-	}
-	if (target == currNode.getValue()) {
-		return currNode;
-	}
-	if (target < currNode.getValue()) {
-		return search(currNode.getLeft());
-	}
-	else {
-		return search(currNode.getRight());
-	}
+      if (currNode == null) {
+        return null;
+      }
+      if (target == currNode.getValue()) {
+        return currNode;
+      }
+      if (target < currNode.getValue()) {
+        return search(target, currNode.getLeft());
+      }
+      else {
+        return search(target, currNode.getRight());
+      }
     }
 
 
@@ -175,6 +170,21 @@ public class BST
     public int height()
     {
     	/*** YOUR IMPLEMENTATION HERE ***/
+      return height(_root);
+    }
+
+    public int height(TreeNode currNode) {
+      if (currNode == null) {
+        return 0;
+      } else {
+        int _lh = height(currNode.getLeft());
+        int _rh = height(currNode.getRight());
+        if (_rh > _lh) {
+          return 1 + _rh;
+        } else {
+          return 1 + _lh;
+        }
+      }
     }
 
 
@@ -185,17 +195,23 @@ public class BST
     public int numLeaves()
     {
     	/*** YOUR IMPLEMENTATION HERE ***/
-	
+      return numLeaves(_root);
+    }
+
+    public int numLeaves(TreeNode currNode) {
+      if (currNode == null) {
+        return 0;
+      }
+      return 1 + numLeaves(currNode.getLeft()) + numLeaves(currNode.getRight());
     }
 
 
 
-  //main method for testing
-  public static void main( String[] args )
-  {
-      
+    //main method for testing
+    public static void main( String[] args )
+    {
       BST arbol = new BST();
-      
+
       //PROTIP: sketch state of tree after each insertion
       //        ...BEFORE executing these.
       arbol.insert( 4 );
@@ -204,22 +220,14 @@ public class BST
       arbol.insert( 6 );
       arbol.insert( 1 );
       arbol.insert( 3 );
-      
-      System.out.println( "\n-----------------------------");
-      System.out.println( "pre-order traversal:" );
-      arbol.preOrderTrav();
-      
-      System.out.println( "\n-----------------------------");
-      System.out.println( "in-order traversal:" );
-      arbol.inOrderTrav();
-      
-      System.out.println( "\n-----------------------------");
-      System.out.println( "post-order traversal:" );
-      arbol.postOrderTrav();
-      
-      System.out.println( "\n-----------------------------");
+
+      System.out.println("Height: " + arbol.height());
+      //System.out.println(arbol.search(0).getValue());
+      //System.out.println(arbol.search(7).getValue());
+      System.out.println("Searching for 5: " + arbol.search(5).getValue());
+      System.out.println("Number of Leaves: " + arbol.numLeaves());
       /*~~~~~~~~~~~~move~me~down~~~~~~~~~~~~~~~~~~~~~~
       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     }
-    
+
 }//end class
