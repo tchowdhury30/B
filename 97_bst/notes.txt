@@ -1,0 +1,28 @@
+Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW97 -- Prune Your Tree
+2022-05-11r
+time spent: 2 hrs
+
+DISCO:
+* DNF
+* We first put _parent in BST before making it an attribute of TreeNode
+* We had two base cases and one recursive case
+
+QCC:
+* How do we make the chosen child inherit the target's children if it is a direct child of the target
+  bc we can't make it parent itself
+    - Check if the chosen one's parent is the same as the target:
+      inheritor.getParent() ==  target
+
+ALGO:
+* First search we have to search for the Node that has the target value we are trying to remove
+* Then we check if it has two children:
+     If it does:
+        Find the max of the right subtree lineage and choose it as the inheritor which will replace the target
+     If it doesn't:
+        We set the inheritor to whatever it did have.
+    Set inheritor's parent to null
+    Then we compared the value in the inheritor to the value of the target to decide whether the parent of the target would adopt the inheritor to the right subtree lineage or the left
+    Set the target's parent's child to the inheritor
+    Set the inheritors children to the targets children
