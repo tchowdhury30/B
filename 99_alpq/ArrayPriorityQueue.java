@@ -1,11 +1,19 @@
+// Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+// APCS pd8
+// HW99: Some Are More Equal Than Others, Codified
+// 2022-05-13m
+// time spent: .5 hrs
+
 import java.util.*;
 
 public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
-  private ArrayList<Integer> diana;
 
+  private ArrayList<Integer> diana = new ArrayList<Integer>();
+
+  //O(n)
   public void add(Integer e ) {
     for (int i = diana.size(); i > 0; i--) {
-      if (e.compareTo(diana.get(i)) > 0) {
+      if (e.compareTo(diana.get(i)) < 0) {
         diana.add(i, e);
         return;
       } else {
@@ -15,14 +23,17 @@ public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
     }
   }
 
+  //O(1)
   public boolean isEmpty() {
     return (diana.size() <= 0);
   }
 
+  //O(1)
   public Integer peekMin() {
     return diana.get(0);
   }
 
+  //O(1)
   public Integer removeMin() {
     return diana.remove(0);
   }
