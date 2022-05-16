@@ -1,23 +1,24 @@
-// Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
-// APCS pd8
-// HW99: Some Are More Equal Than Others, Codified
-// 2022-05-13m
-// time spent: .5 hrs
-
 import java.util.*;
 
-public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
+public class ArrayPriorityQueue implements PriorityQueue<Integer> {
+  private ArrayList<Integer> diana;
 
-  private ArrayList<Integer> diana = new ArrayList<Integer>();
+  public ArrayPriorityQueue() {
+    diana = new ArrayList<Integer>();
+  }
 
   //O(n)
-  public void add(Integer e ) {
-    for (int i = diana.size(); i > 0; i--) {
-      if (e >= diana.get(i)) {
-        diana.add(i, e);
+  public void add(Integer foo) {
+    if (diana.isEmpty()){
+      diana.add(foo);
+    }
+    for (int i = diana.size() - 1; i >= 0; i--) {
+      if (((Comparable)foo).compareTo(diana.get(i)) > 0) {
+        diana.add(i, foo);
         return;
-      } else {
-        diana.add(0, e);
+      }
+      else {
+        diana.add(0, foo);
         return;
       }
     }
@@ -25,7 +26,7 @@ public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
 
   //O(1)
   public boolean isEmpty() {
-    return (diana.size() <= 0);
+    return (diana.size() == 0);
   }
 
   //O(1)
@@ -38,8 +39,21 @@ public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
     return diana.remove(0);
   }
 
+  public String toString() {
+    String ret = "";
+    if (diana.isEmpty()) {
+      return ret;
+    }
+    else {
+      for (Integer i : diana) {
+        ret += i.toString() + ", ";
+      }
+    }
+    return ret;
+  }
+
   public static void main(String[] args) {
-    ArrayPriorityQueue<Integer> tasnim = new ArrayPriorityQueue<Integer>();
+    ArrayPriorityQueue tasnim = new ArrayPriorityQueue();
     System.out.println("Here is Tasnim at birth: " + tasnim);
     System.out.println("Is she empty? " + tasnim.isEmpty());
     if (tasnim.isEmpty())
@@ -58,7 +72,7 @@ public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
 
     System.out.println("\nNow we will examine Faiza");
 
-    ArrayPriorityQueue<Integer> faiza = new ArrayPriorityQueue<Integer>();
+    ArrayPriorityQueue faiza = new ArrayPriorityQueue();
     System.out.println("Here is Faiza in her current state: " + faiza);
     System.out.println("Is she unfilled? " + faiza.isEmpty());
     if (faiza.isEmpty())
