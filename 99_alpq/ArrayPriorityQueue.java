@@ -13,7 +13,7 @@ public class ArrayPriorityQueue<Integer> implements PriorityQueue<Integer> {
   //O(n)
   public void add(Integer e ) {
     for (int i = diana.size(); i > 0; i--) {
-      if (e.compareTo(diana.get(i)) < 0) {
+      if (e >= diana.get(i)) {
         diana.add(i, e);
         return;
       } else {

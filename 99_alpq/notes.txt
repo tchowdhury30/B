@@ -5,7 +5,9 @@ HW99: Some Are More Equal Than Others, Codified
 time spent: .5 hrs
 
 DISCO:
-*
+* So much easier to implement methods after planning on paper, especially
+already having access to many methods from the ArrayList class
 
 QCC:
-* 
+* What are some other ways to represent priority?
+* How do we generalize priority queues to hold anything?
