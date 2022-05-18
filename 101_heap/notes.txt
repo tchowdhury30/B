@@ -1,0 +1,14 @@
+Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW101 -- Heap o'Trouble
+2022-05-17t
+time spent: 0.5 hrs
+
+DISCO:
+* We can use the in-order traversal to find the node we want to remove.
+* For adding an element in min-heap, instead of recursively adding the insert node's children,
+  we can set the left or right children of the remove node to the left or right children of the current node.
+
+QCC:
+* How do we know whether to insert a node in the left or right subtree if there is a spot available in both?
+* How do we deal with duplicate nodes?

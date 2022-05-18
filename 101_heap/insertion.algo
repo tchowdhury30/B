@@ -1,0 +1,15 @@
+Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW101 -- Heap o'Trouble
+2022-05-17t
+time spent: 0.5 hrs
+
+MIN-HEAP INSERTION:
+1. Compare the value of the node we want to insert to the current node.
+2. If the value of insert node is greater than current node, then compare the insert node
+   to the left child of current node.
+3. If there is no left child, make current node the right child, and vice versa.
+4. If the value of insert node is less than current node, then replace the value of the current node
+   to the insert node and call the insertion algo using the insert node as the root and the previous value
+   for current node as the target.
+4. If there is no left or right child, insert the insert node as a new child.

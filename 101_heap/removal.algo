@@ -1,0 +1,12 @@
+Insomniac Raccoons | Faiza Huda, Tasnim Chowdhury, Diana Akhmedova
+APCS pd8
+HW101 -- Heap o'Trouble
+2022-05-17t
+time spent: 0.5 hrs
+
+MIN-HEAP REMOVAL:
+1. Perform the in-order traversal algo to find the node we want to remove.
+2. Compare the left and right child of the remove node to find the node with the smaller value.
+3. Set the value of the remove node to the value of the smaller node value.
+4. Set the right and left children of the remove node to the right and left children of the
+   smaller node value.
